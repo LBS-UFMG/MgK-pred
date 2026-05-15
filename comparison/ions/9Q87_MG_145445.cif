@@ -1,0 +1,60 @@
+data_9Q87
+#
+loop_
+_atom_site.group_PDB
+_atom_site.id
+_atom_site.type_symbol
+_atom_site.label_atom_id
+_atom_site.label_alt_id
+_atom_site.label_comp_id
+_atom_site.label_asym_id
+_atom_site.label_entity_id
+_atom_site.label_seq_id
+_atom_site.pdbx_PDB_ins_code
+_atom_site.Cartn_x
+_atom_site.Cartn_y
+_atom_site.Cartn_z
+_atom_site.occupancy
+_atom_site.B_iso_or_equiv
+_atom_site.auth_seq_id
+_atom_site.auth_asym_id
+_atom_site.pdbx_PDB_model_num
+ATOM   1  C  'C5'' . C   JD ? 71   ? 196.132 209.945 222.963 1.0 50.28972 75    Z 1 
+ATOM   2  C  'C4'' . C   JD ? 71   ? 196.111 209.767 224.468 1.0 48.0726  75    Z 1 
+ATOM   3  O  'O4'' . C   JD ? 71   ? 195.890 211.048 225.115 1.0 46.86438 75    Z 1 
+HETATM 4  O  O     . HOH LD ? .    ? 197.390 213.513 224.496 1.0 58.11849 229   Z 1 
+HETATM 5  O  O     . HOH LD ? .    ? 199.301 211.508 225.210 1.0 59.67164 241   Z 1 
+HETATM 6  O  O     . HOH LD ? .    ? 200.490 214.074 220.715 1.0 51.48521 242   Z 1 
+HETATM 7  O  O     . HOH LD ? .    ? 200.926 214.844 223.432 1.0 54.35426 246   Z 1 
+ATOM   8  O  OP1   . C   UE ? 2056 ? 197.843 209.038 229.717 1.0 32.7123  2068  a 1 
+ATOM   9  P  P     . U   YE ? 2428 ? 206.433 210.896 226.008 1.0 17.91515 2442  a 1 
+ATOM   10 O  OP1   . U   YE ? 2428 ? 205.411 210.528 225.017 1.0 25.25529 2442  a 1 
+ATOM   11 O  OP2   . U   YE ? 2428 ? 206.142 211.945 226.997 1.0 17.79226 2442  a 1 
+ATOM   12 O  OP1   . A   YE ? 2429 ? 203.452 206.522 228.173 1.0 19.41446 2443  a 1 
+ATOM   13 C  'C5'' . A   QF ? 2580 ? 205.655 208.759 222.224 1.0 14.47132 2604  a 1 
+ATOM   14 C  'C4'' . A   QF ? 2580 ? 205.118 209.654 221.141 1.0 15.93922 2604  a 1 
+ATOM   15 C  'C3'' . A   QF ? 2580 ? 203.988 209.066 220.311 1.0 15.88427 2604  a 1 
+ATOM   16 O  'O3'' . A   QF ? 2580 ? 202.743 209.216 220.948 1.0 27.47388 2604  a 1 
+ATOM   17 P  P     . C   QF ? 2581 ? 201.576 208.166 220.673 1.0 28.93398 2605  a 1 
+ATOM   18 O  OP1   . C   QF ? 2581 ? 200.457 208.395 221.609 1.0 51.95772 2605  a 1 
+ATOM   19 O  OP2   . C   QF ? 2581 ? 202.171 206.832 220.575 1.0 28.66173 2605  a 1 
+HETATM 20 MG MG    . MG  BI ? .    ? 201.161 210.616 225.034 1.0 90.02711 3458  a 1 
+HETATM 21 O  O     . HOH HI ? .    ? 201.167 210.435 222.972 1.0 46.08417 3614  a 1 
+HETATM 22 O  O     . HOH HI ? .    ? 202.995 209.068 228.160 1.0 37.3429  3718  a 1 
+HETATM 23 O  O     . HOH HI ? .    ? 202.950 209.577 225.107 1.0 35.19824 4162  a 1 
+HETATM 24 O  O     . HOH HI ? .    ? 204.638 215.032 224.417 1.0 42.16746 4400  a 1 
+HETATM 25 O  O     . HOH HI ? .    ? 198.707 206.372 221.818 1.0 60.96273 4923  a 1 
+HETATM 26 O  O     . HOH HI ? .    ? 203.482 206.856 224.394 1.0 29.83508 6782  a 1 
+HETATM 27 O  O     . HOH HI ? .    ? 198.101 211.257 228.099 1.0 46.09936 7319  a 1 
+HETATM 28 O  O     . HOH HI ? .    ? 203.949 213.667 226.941 1.0 37.94867 8493  a 1 
+HETATM 29 O  O     . HOH HI ? .    ? 202.612 212.391 221.493 1.0 32.51644 8627  a 1 
+HETATM 30 O  O     . HOH HI ? .    ? 204.680 211.035 229.199 1.0 29.50724 8752  a 1 
+HETATM 31 O  O     . HOH HI ? .    ? 205.086 212.684 223.267 1.0 30.76957 8770  a 1 
+HETATM 32 O  O     . HOH HI ? .    ? 199.132 207.721 227.598 1.0 55.29823 9269  a 1 
+HETATM 33 O  O     . HOH HI ? .    ? 201.754 205.630 226.101 1.0 32.54405 9845  a 1 
+HETATM 34 O  O     . HOH HI ? .    ? 200.147 208.812 224.998 1.0 57.32603 15372 a 1 
+HETATM 35 O  O     . HOH HI ? .    ? 201.845 212.567 225.148 1.0 58.13511 16283 a 1 
+HETATM 36 O  O     . HOH HI ? .    ? 200.267 213.937 228.072 1.0 65.89888 16705 a 1 
+HETATM 37 O  O     . HOH HI ? .    ? 201.107 210.659 227.103 1.0 62.15595 16778 a 1 
+HETATM 38 O  O     . HOH HI ? .    ? 202.438 212.744 230.160 1.0 60.76267 17047 a 1 
+#

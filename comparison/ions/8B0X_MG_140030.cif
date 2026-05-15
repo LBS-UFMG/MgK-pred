@@ -1,0 +1,53 @@
+data_8B0X
+#
+loop_
+_atom_site.group_PDB
+_atom_site.id
+_atom_site.type_symbol
+_atom_site.label_atom_id
+_atom_site.label_alt_id
+_atom_site.label_comp_id
+_atom_site.label_asym_id
+_atom_site.label_entity_id
+_atom_site.label_seq_id
+_atom_site.pdbx_PDB_ins_code
+_atom_site.Cartn_x
+_atom_site.Cartn_y
+_atom_site.Cartn_z
+_atom_site.occupancy
+_atom_site.B_iso_or_equiv
+_atom_site.auth_seq_id
+_atom_site.auth_asym_id
+_atom_site.pdbx_PDB_model_num
+ATOM   1  P  P     . C   KE ? 31 ? 179.652 304.218 216.729 1.0 66.69 31  b 1 
+ATOM   2  O  OP2   . C   KE ? 31 ? 180.569 303.931 217.848 1.0 66.59 31  b 1 
+ATOM   3  O  'O5'' . C   KE ? 31 ? 179.409 305.789 216.728 1.0 65.35 31  b 1 
+ATOM   4  N  N3    . C   KE ? 31 ? 180.629 309.308 221.181 1.0 63.34 31  b 1 
+ATOM   5  C  C4    . C   KE ? 31 ? 180.967 308.035 221.342 1.0 61.87 31  b 1 
+ATOM   6  N  N4    . C   KE ? 31 ? 181.783 307.733 222.348 1.0 58.92 31  b 1 
+ATOM   7  C  C5    . C   KE ? 31 ? 180.484 307.021 220.478 1.0 62.65 31  b 1 
+ATOM   8  C  C6    . C   KE ? 31 ? 179.667 307.395 219.492 1.0 62.06 31  b 1 
+ATOM   9  C  C4    . U   KE ? 32 ? 184.047 309.977 219.609 1.0 64.4  32  b 1 
+ATOM   10 O  O4    . U   KE ? 32 ? 184.456 309.102 220.366 1.0 66.6  32  b 1 
+ATOM   11 C  C5    . U   KE ? 32 ? 183.070 309.808 218.588 1.0 64.5  32  b 1 
+ATOM   12 C  C6    . G   KE ? 33 ? 188.225 309.306 219.524 1.0 67.53 33  b 1 
+ATOM   13 O  O6    . G   KE ? 33 ? 187.785 308.179 219.734 1.0 70.1  33  b 1 
+ATOM   14 N  N6    . A   KE ? 34 ? 189.830 306.153 218.438 1.0 65.88 34  b 1 
+ATOM   15 O  OP2   . A   KE ? 45 ? 186.741 303.686 214.914 1.0 62.15 45  b 1 
+ATOM   16 P  P     . A   KE ? 46 ? 184.758 299.887 217.976 1.0 69.6  46  b 1 
+ATOM   17 O  OP1   . A   KE ? 46 ? 183.400 299.960 218.548 1.0 59.23 46  b 1 
+ATOM   18 O  OP2   . A   KE ? 46 ? 185.587 301.106 217.868 1.0 62.21 46  b 1 
+ATOM   19 C  C4    . U   KE ? 48 ? 189.592 304.190 221.957 1.0 56.97 48  b 1 
+ATOM   20 O  O4    . U   KE ? 48 ? 188.803 304.435 221.053 1.0 61.04 48  b 1 
+ATOM   21 N  N4    . C   KE ? 49 ? 187.935 307.247 222.733 1.0 58.14 49  b 1 
+HETATM 22 MG MG    . MG  LE ? .  ? 184.318 304.835 219.760 1.0 67.35 201 b 1 
+ATOM   23 N  N     . LYS WF ? 2  ? 178.937 294.651 223.583 1.0 54.69 3   n 1 
+ATOM   24 C  CA    . LYS WF ? 2  ? 180.065 295.148 224.361 1.0 53.5  3   n 1 
+ATOM   25 C  C     . LYS WF ? 2  ? 179.860 294.936 225.853 1.0 54.83 3   n 1 
+ATOM   26 O  O     . LYS WF ? 2  ? 180.808 294.605 226.571 1.0 57.64 3   n 1 
+ATOM   27 C  CB    . LYS WF ? 2  ? 180.298 296.625 224.059 1.0 51.77 3   n 1 
+ATOM   28 C  CG    . LYS WF ? 2  ? 181.300 296.874 222.955 1.0 53.68 3   n 1 
+ATOM   29 C  CD    . LYS WF ? 2  ? 181.119 298.248 222.338 1.0 54.75 3   n 1 
+ATOM   30 C  CE    . LYS WF ? 2  ? 181.978 299.284 223.041 1.0 56.96 3   n 1 
+ATOM   31 N  NZ    . LYS WF ? 2  ? 182.135 300.513 222.226 1.0 56.75 3   n 1 
+#

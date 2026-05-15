@@ -1,0 +1,55 @@
+data_8B0X
+#
+loop_
+_atom_site.group_PDB
+_atom_site.id
+_atom_site.type_symbol
+_atom_site.label_atom_id
+_atom_site.label_alt_id
+_atom_site.label_comp_id
+_atom_site.label_asym_id
+_atom_site.label_entity_id
+_atom_site.label_seq_id
+_atom_site.pdbx_PDB_ins_code
+_atom_site.Cartn_x
+_atom_site.Cartn_y
+_atom_site.Cartn_z
+_atom_site.occupancy
+_atom_site.B_iso_or_equiv
+_atom_site.auth_seq_id
+_atom_site.auth_asym_id
+_atom_site.pdbx_PDB_model_num
+ATOM   1  P  P     . G   J  ? 236 ? 212.524 123.417 167.509 1.0 80.79 258  A 1 
+ATOM   2  O  OP1   . G   J  ? 236 ? 212.383 121.965 167.251 1.0 70.49 258  A 1 
+ATOM   3  O  OP2   . G   J  ? 236 ? 212.747 124.334 166.370 1.0 72.2  258  A 1 
+ATOM   4  O  'O5'' . G   J  ? 236 ? 211.225 123.907 168.289 1.0 72.41 258  A 1 
+ATOM   5  C  'C3'' . G   J  ? 236 ? 208.341 124.203 169.306 1.0 67.67 258  A 1 
+ATOM   6  O  'O3'' . G   J  ? 236 ? 207.483 123.101 169.074 1.0 67.61 258  A 1 
+ATOM   7  C  C8    . G   J  ? 236 ? 210.208 127.333 168.787 1.0 69.34 258  A 1 
+ATOM   8  N  N7    . G   J  ? 236 ? 210.131 128.472 168.162 1.0 69.29 258  A 1 
+ATOM   9  P  P     . G   J  ? 237 ? 206.582 123.045 167.746 1.0 74.73 259  A 1 
+ATOM   10 O  OP2   . G   J  ? 237 ? 207.432 123.396 166.589 1.0 71.11 259  A 1 
+ATOM   11 O  'O5'' . G   J  ? 237 ? 205.533 124.224 167.931 1.0 71.49 259  A 1 
+ATOM   12 C  C8    . G   J  ? 237 ? 206.445 127.451 167.069 1.0 65.42 259  A 1 
+ATOM   13 N  N7    . G   J  ? 237 ? 207.099 128.066 166.130 1.0 67.81 259  A 1 
+ATOM   14 C  C5    . G   J  ? 237 ? 206.420 129.261 165.971 1.0 67.05 259  A 1 
+ATOM   15 O  O6    . G   J  ? 237 ? 207.548 130.468 164.255 1.0 67.64 259  A 1 
+ATOM   16 N  N7    . G   J  ? 238 ? 204.583 127.776 163.744 1.0 63.5  260  A 1 
+ATOM   17 C  C5    . G   J  ? 238 ? 204.776 128.835 162.876 1.0 63.65 260  A 1 
+ATOM   18 C  C6    . G   J  ? 238 ? 205.794 129.069 161.920 1.0 65.42 260  A 1 
+ATOM   19 O  O6    . G   J  ? 238 ? 206.764 128.368 161.628 1.0 66.42 260  A 1 
+HETATM 20 MG MG    . MG  EA ? .   ? 209.066 124.883 163.660 1.0 70.52 1635 A 1 
+HETATM 21 O  O     . HOH JA ? .   ? 206.664 126.488 158.627 1.0 66.99 2377 A 1 
+HETATM 22 O  O     . HOH JA ? .   ? 210.153 129.975 163.699 1.0 65.48 2806 A 1 
+HETATM 23 O  O     . HOH JA ? .   ? 211.708 129.023 165.937 1.0 71.33 3202 A 1 
+HETATM 24 O  O     . HOH JA ? .   ? 208.879 126.741 164.250 1.0 73.76 3787 A 1 
+HETATM 25 O  O     . HOH JA ? .   ? 206.546 124.977 164.005 1.0 68.27 4440 A 1 
+ATOM   26 N  N     . ASN XB ? 77  ? 205.921 118.214 163.119 1.0 69.35 78   T 1 
+ATOM   27 C  CA    . ASN XB ? 77  ? 206.436 118.774 164.363 1.0 69.69 78   T 1 
+ATOM   28 C  C     . ASN XB ? 77  ? 206.423 117.740 165.478 1.0 71.72 78   T 1 
+ATOM   29 O  O     . ASN XB ? 77  ? 207.349 117.687 166.294 1.0 71.57 78   T 1 
+ATOM   30 C  CB    . ASN XB ? 77  ? 205.618 119.997 164.773 1.0 69.34 78   T 1 
+ATOM   31 C  CG    . ASN XB ? 77  ? 205.847 121.186 163.867 1.0 72.45 78   T 1 
+ATOM   32 O  OD1   . ASN XB ? 77  ? 206.915 121.342 163.283 1.0 72.5  78   T 1 
+ATOM   33 N  ND2   . ASN XB ? 77  ? 204.836 122.035 163.745 1.0 72.57 78   T 1 
+#

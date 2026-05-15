@@ -1,0 +1,66 @@
+data_8B0X
+#
+loop_
+_atom_site.group_PDB
+_atom_site.id
+_atom_site.type_symbol
+_atom_site.label_atom_id
+_atom_site.label_alt_id
+_atom_site.label_comp_id
+_atom_site.label_asym_id
+_atom_site.label_entity_id
+_atom_site.label_seq_id
+_atom_site.pdbx_PDB_ins_code
+_atom_site.Cartn_x
+_atom_site.Cartn_y
+_atom_site.Cartn_z
+_atom_site.occupancy
+_atom_site.B_iso_or_equiv
+_atom_site.auth_seq_id
+_atom_site.auth_asym_id
+_atom_site.pdbx_PDB_model_num
+ATOM   1  P  P     . G   GC ? 574  ? 189.688 196.258 256.463 1.0 20.54 580   a 1 
+ATOM   2  O  OP1   . G   GC ? 574  ? 190.907 195.486 256.218 1.0 25.23 580   a 1 
+ATOM   3  O  OP2   . G   GC ? 574  ? 188.598 196.187 255.491 1.0 24.95 580   a 1 
+ATOM   4  O  'O5'' . G   GC ? 574  ? 189.090 195.811 257.851 1.0 20.38 580   a 1 
+ATOM   5  P  P     . G   GC ? 575  ? 188.836 192.123 259.532 1.0 24.33 581   a 1 
+ATOM   6  O  OP1   . G   GC ? 575  ? 190.129 191.522 259.878 1.0 26.5  581   a 1 
+ATOM   7  O  OP2   . G   GC ? 575  ? 188.598 192.633 258.180 1.0 26.99 581   a 1 
+ATOM   8  O  'O3'' . U   MC ? 1189 ? 194.027 195.795 258.162 1.0 21.27 1257  a 1 
+ATOM   9  C  'C2'' . U   MC ? 1189 ? 194.446 195.811 255.756 1.0 14.53 1257  a 1 
+ATOM   10 O  'O2'' . U   MC ? 1189 ? 193.401 194.859 255.747 1.0 27.37 1257  a 1 
+ATOM   11 O  O2    . U   MC ? 1189 ? 194.703 195.616 252.450 1.0 26.03 1257  a 1 
+ATOM   12 O  OP1   . G   MC ? 1190 ? 195.800 194.021 258.089 1.0 25.36 1258  a 1 
+ATOM   13 P  P     . U   AD ? 1942 ? 190.857 187.136 252.217 1.0 28.13 2020  a 1 
+ATOM   14 O  OP1   . U   AD ? 1942 ? 191.522 188.384 251.827 1.0 31.56 2020  a 1 
+ATOM   15 O  OP2   . U   AD ? 1942 ? 191.274 186.466 253.455 1.0 30.69 2020  a 1 
+ATOM   16 O  'O5'' . U   AD ? 1942 ? 189.315 187.453 252.334 1.0 26.86 2020  a 1 
+ATOM   17 P  P     . U   AD ? 1943 ? 185.969 190.696 253.321 1.0 24.06 2021  a 1 
+ATOM   18 O  OP2   . U   AD ? 1943 ? 187.329 190.791 253.843 1.0 22.57 2021  a 1 
+ATOM   19 O  OP1   . A   CD ? 1983 ? 189.102 191.307 249.851 1.0 33.38 2062  a 1 
+HETATM 20 MG MG    . MG  YD ? .    ? 191.522 191.362 255.119 1.0 48.13 3038  a 1 
+HETATM 21 MG MG    . MG  IE ? .    ? 187.098 195.177 254.765 1.0 23.21 3348  a 1 
+HETATM 22 O  O     . HOH JE ? .    ? 190.705 192.983 256.283 1.0 34.44 3694  a 1 
+HETATM 23 O  O     . HOH JE ? .    ? 186.766 194.145 256.581 1.0 20.15 3868  a 1 
+HETATM 24 O  O     . HOH JE ? .    ? 193.715 186.404 254.388 1.0 41.12 4329  a 1 
+HETATM 25 O  O     . HOH JE ? .    ? 188.002 190.718 256.467 1.0 27.36 4565  a 1 
+HETATM 26 O  O     . HOH JE ? .    ? 192.769 192.253 259.505 1.0 33.1  5744  a 1 
+HETATM 27 O  O     . HOH JE ? .    ? 191.522 189.329 260.761 1.0 28.09 6036  a 1 
+HETATM 28 O  O     . HOH JE ? .    ? 190.791 196.639 252.926 1.0 38.18 6626  a 1 
+HETATM 29 O  O     . HOH JE ? .    ? 190.060 190.871 253.307 1.0 35.87 6669  a 1 
+HETATM 30 O  O     . HOH JE ? .    ? 192.905 192.984 253.695 1.0 33.58 7245  a 1 
+HETATM 31 O  O     . HOH JE ? .    ? 195.702 192.292 255.850 1.0 32.82 7340  a 1 
+HETATM 32 O  O     . HOH JE ? .    ? 188.204 193.715 253.916 1.0 21.19 8727  a 1 
+HETATM 33 O  O     . HOH JE ? .    ? 192.036 194.644 251.464 1.0 43.38 9077  a 1 
+HETATM 34 O  O     . HOH JE ? .    ? 190.784 187.040 256.581 1.0 37.21 9314  a 1 
+HETATM 35 O  O     . HOH JE ? .    ? 192.875 189.802 254.310 1.0 41.12 9613  a 1 
+HETATM 36 O  O     . HOH JE ? .    ? 193.021 191.522 256.581 1.0 38.43 9903  a 1 
+HETATM 37 O  O     . HOH JE ? .    ? 190.619 189.865 256.419 1.0 36.04 10071 a 1 
+HETATM 38 O  O     . HOH JE ? .    ? 193.692 189.375 258.842 1.0 32.95 10209 a 1 
+HETATM 39 O  O     . HOH JE ? .    ? 194.446 188.598 255.899 1.0 43.78 10261 a 1 
+ATOM   40 N  N     . GLY BF ? 66   ? 198.676 192.909 250.271 1.0 23.82 66    e 1 
+ATOM   41 C  CA    . GLY BF ? 66   ? 197.427 192.909 250.997 1.0 18.0  66    e 1 
+ATOM   42 C  C     . GLY BF ? 66   ? 197.555 193.101 252.489 1.0 17.4  66    e 1 
+ATOM   43 O  O     . GLY BF ? 66   ? 196.559 192.984 253.199 1.0 29.32 66    e 1 
+HETATM 44 O  O     . HOH DF ? .    ? 196.639 190.060 255.652 1.0 45.85 477   e 1 
+#

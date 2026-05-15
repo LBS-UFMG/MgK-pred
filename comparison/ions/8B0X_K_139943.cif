@@ -1,0 +1,52 @@
+data_8B0X
+#
+loop_
+_atom_site.group_PDB
+_atom_site.id
+_atom_site.type_symbol
+_atom_site.label_atom_id
+_atom_site.label_alt_id
+_atom_site.label_comp_id
+_atom_site.label_asym_id
+_atom_site.label_entity_id
+_atom_site.label_seq_id
+_atom_site.pdbx_PDB_ins_code
+_atom_site.Cartn_x
+_atom_site.Cartn_y
+_atom_site.Cartn_z
+_atom_site.occupancy
+_atom_site.B_iso_or_equiv
+_atom_site.auth_seq_id
+_atom_site.auth_asym_id
+_atom_site.pdbx_PDB_model_num
+ATOM   1  P P     . A   QC ? 1786 ? 244.592 236.685 231.479 1.0 37.27 1856 a 1 
+ATOM   2  O OP1   . A   QC ? 1786 ? 243.900 237.573 232.428 1.0 39.81 1856 a 1 
+ATOM   3  O OP2   . A   QC ? 1786 ? 245.412 237.271 230.410 1.0 37.49 1856 a 1 
+ATOM   4  O 'O5'' . A   QC ? 1786 ? 245.533 235.701 232.295 1.0 37.24 1856 a 1 
+ATOM   5  P P     . U   QC ? 1787 ? 248.184 235.679 235.861 1.0 45.95 1857 a 1 
+ATOM   6  O OP2   . U   QC ? 1787 ? 247.430 236.842 235.361 1.0 44.97 1857 a 1 
+ATOM   7  C C4    . U   QC ? 1787 ? 249.380 238.349 230.497 1.0 38.85 1857 a 1 
+ATOM   8  O O4    . U   QC ? 1787 ? 248.714 239.196 229.920 1.0 43.86 1857 a 1 
+ATOM   9  C C5    . U   QC ? 1787 ? 249.043 237.708 231.725 1.0 39.5  1857 a 1 
+ATOM   10 C C6    . U   QC ? 1787 ? 249.861 236.801 232.246 1.0 37.95 1857 a 1 
+ATOM   11 N N3    . U   QC ? 1788 ? 250.941 241.803 231.346 1.0 43.43 1858 a 1 
+ATOM   12 C C4    . U   QC ? 1788 ? 250.119 241.248 232.292 1.0 44.97 1858 a 1 
+ATOM   13 O O4    . U   QC ? 1788 ? 248.934 241.543 232.289 1.0 48.6  1858 a 1 
+ATOM   14 C C5    . U   QC ? 1788 ? 250.766 240.370 233.205 1.0 45.45 1858 a 1 
+ATOM   15 C C6    . U   QC ? 1788 ? 252.071 240.133 233.092 1.0 48.67 1858 a 1 
+ATOM   16 N N7    . G   QC ? 1789 ? 251.089 242.791 235.988 1.0 50.74 1859 a 1 
+ATOM   17 C C5    . G   QC ? 1789 ? 250.303 243.407 235.034 1.0 49.81 1859 a 1 
+ATOM   18 C C6    . G   QC ? 1789 ? 248.969 243.171 234.667 1.0 52.16 1859 a 1 
+ATOM   19 O O6    . G   QC ? 1789 ? 248.195 242.336 235.127 1.0 58.82 1859 a 1 
+ATOM   20 N N1    . G   QC ? 1789 ? 248.553 244.012 233.653 1.0 50.44 1859 a 1 
+ATOM   21 C C2    . G   QC ? 1789 ? 249.336 244.961 233.065 1.0 49.69 1859 a 1 
+ATOM   22 N N2    . G   QC ? 1789 ? 248.756 245.679 232.104 1.0 50.97 1859 a 1 
+ATOM   23 N N3    . G   QC ? 1789 ? 250.581 245.199 233.396 1.0 47.36 1859 a 1 
+ATOM   24 C C4    . G   QC ? 1789 ? 250.993 244.389 234.383 1.0 49.41 1859 a 1 
+ATOM   25 O 'O2'' . G   QC ? 1815 ? 246.211 246.040 231.161 1.0 55.67 1888 a 1 
+ATOM   26 C C8    . G   QC ? 1815 ? 245.399 246.711 234.660 1.0 49.73 1888 a 1 
+ATOM   27 N N7    . G   QC ? 1815 ? 245.757 246.223 235.804 1.0 50.5  1888 a 1 
+HETATM 28 K K     . K   FE ? .    ? 246.439 240.913 233.827 1.0 30.0  3280 a 1 
+HETATM 29 O O     . HOH JE ? .    ? 245.003 239.244 228.373 1.0 40.79 6436 a 1 
+HETATM 30 O O     . HOH JE ? .    ? 246.347 240.156 230.996 1.0 47.09 6466 a 1 
+#

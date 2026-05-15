@@ -1,0 +1,62 @@
+data_8B0X
+#
+loop_
+_atom_site.group_PDB
+_atom_site.id
+_atom_site.type_symbol
+_atom_site.label_atom_id
+_atom_site.label_alt_id
+_atom_site.label_comp_id
+_atom_site.label_asym_id
+_atom_site.label_entity_id
+_atom_site.label_seq_id
+_atom_site.pdbx_PDB_ins_code
+_atom_site.Cartn_x
+_atom_site.Cartn_y
+_atom_site.Cartn_z
+_atom_site.occupancy
+_atom_site.B_iso_or_equiv
+_atom_site.auth_seq_id
+_atom_site.auth_asym_id
+_atom_site.pdbx_PDB_model_num
+ATOM   1  P  P     . G   GC ? 555  ? 151.725 198.209 264.145 1.0 30.18 561   a 1 
+ATOM   2  O  OP1   . G   GC ? 555  ? 151.072 198.680 262.918 1.0 34.08 561   a 1 
+ATOM   3  C  'C5'' . G   GC ? 555  ? 151.152 200.594 265.068 1.0 22.73 561   a 1 
+ATOM   4  O  'O3'' . G   GC ? 555  ? 152.857 203.177 264.041 1.0 26.75 561   a 1 
+ATOM   5  P  P     . C   GC ? 556  ? 153.908 203.195 262.830 1.0 30.32 562   a 1 
+ATOM   6  O  OP1   . C   GC ? 556  ? 153.463 204.151 261.810 1.0 35.38 562   a 1 
+ATOM   7  O  OP2   . C   GC ? 556  ? 154.210 201.820 262.429 1.0 31.21 562   a 1 
+ATOM   8  O  'O3'' . C   MC ? 999  ? 145.704 200.780 260.288 1.0 26.09 1009  a 1 
+ATOM   9  C  'C2'' . C   MC ? 999  ? 145.842 201.487 257.943 1.0 20.11 1009  a 1 
+ATOM   10 O  'O2'' . C   MC ? 999  ? 146.361 200.200 257.665 1.0 32.21 1009  a 1 
+ATOM   11 P  P     . A   MC ? 1000 ? 146.637 201.566 261.322 1.0 29.05 1010  a 1 
+ATOM   12 O  OP1   . A   MC ? 1000 ? 147.681 202.267 260.563 1.0 35.77 1010  a 1 
+ATOM   13 O  OP2   . A   MC ? 1000 ? 147.012 200.615 262.371 1.0 34.3  1010  a 1 
+ATOM   14 C  C8    . A   MC ? 1000 ? 147.050 205.110 259.164 1.0 19.06 1010  a 1 
+ATOM   15 N  N7    . A   MC ? 1000 ? 147.682 205.387 258.061 1.0 24.59 1010  a 1 
+ATOM   16 P  P     . G   CD ? 1963 ? 154.241 202.875 254.616 1.0 25.09 2042  a 1 
+ATOM   17 O  OP1   . G   CD ? 1963 ? 153.261 203.398 255.565 1.0 25.93 2042  a 1 
+ATOM   18 O  OP2   . G   CD ? 1963 ? 155.049 201.728 255.036 1.0 29.79 2042  a 1 
+HETATM 19 MG MG    . MG  AE ? .    ? 151.466 201.156 259.235 1.0 40.98 3085  a 1 
+HETATM 20 O  O     . HOH JE ? .    ? 154.761 205.481 260.064 1.0 37.1  3879  a 1 
+HETATM 21 O  O     . HOH JE ? .    ? 151.983 206.142 262.429 1.0 39.18 3908  a 1 
+HETATM 22 O  O     . HOH JE ? .    ? 155.703 201.563 257.612 1.0 38.37 4866  a 1 
+HETATM 23 O  O     . HOH JE ? .    ? 153.648 199.491 254.388 1.0 29.84 5629  a 1 
+HETATM 24 O  O     . HOH JE ? .    ? 154.966 198.862 262.830 1.0 40.81 6269  a 1 
+HETATM 25 O  O     . HOH JE ? .    ? 150.539 199.879 255.832 1.0 39.49 6310  a 1 
+HETATM 26 O  O     . HOH JE ? .    ? 152.048 201.633 257.312 1.0 33.08 6348  a 1 
+HETATM 27 O  O     . HOH JE ? .    ? 154.133 205.394 257.312 1.0 43.89 6806  a 1 
+HETATM 28 O  O     . HOH JE ? .    ? 148.396 198.832 259.105 1.0 35.28 7526  a 1 
+HETATM 29 O  O     . HOH JE ? .    ? 152.048 203.218 259.507 1.0 36.7  7730  a 1 
+HETATM 30 O  O     . HOH JE ? .    ? 150.764 204.802 255.333 1.0 33.92 7914  a 1 
+HETATM 31 O  O     . HOH JE ? .    ? 149.855 203.218 262.203 1.0 42.92 8038  a 1 
+HETATM 32 O  O     . HOH JE ? .    ? 151.078 201.025 261.100 1.0 38.79 8813  a 1 
+HETATM 33 O  O     . HOH JE ? .    ? 148.992 203.218 256.410 1.0 37.15 9182  a 1 
+HETATM 34 O  O     . HOH JE ? .    ? 153.510 201.015 259.591 1.0 39.32 9225  a 1 
+HETATM 35 O  O     . HOH JE ? .    ? 150.965 205.446 258.274 1.0 38.3  9776  a 1 
+HETATM 36 O  O     . HOH JE ? .    ? 149.855 206.440 260.627 1.0 43.91 9935  a 1 
+HETATM 37 O  O     . HOH JE ? .    ? 151.317 199.128 258.774 1.0 34.82 10170 a 1 
+HETATM 38 O  O     . HOH JE ? .    ? 152.779 197.930 256.638 1.0 46.58 10223 a 1 
+HETATM 39 O  O     . HOH KF ? .    ? 151.318 196.829 260.582 1.0 42.15 204   i 1 
+HETATM 40 O  O     . HOH KF ? .    ? 147.662 200.294 255.119 1.0 32.51 234   i 1 
+#

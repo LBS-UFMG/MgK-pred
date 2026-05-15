@@ -1,0 +1,51 @@
+data_8B0X
+#
+loop_
+_atom_site.group_PDB
+_atom_site.id
+_atom_site.type_symbol
+_atom_site.label_atom_id
+_atom_site.label_alt_id
+_atom_site.label_comp_id
+_atom_site.label_asym_id
+_atom_site.label_entity_id
+_atom_site.label_seq_id
+_atom_site.pdbx_PDB_ins_code
+_atom_site.Cartn_x
+_atom_site.Cartn_y
+_atom_site.Cartn_z
+_atom_site.occupancy
+_atom_site.B_iso_or_equiv
+_atom_site.auth_seq_id
+_atom_site.auth_asym_id
+_atom_site.pdbx_PDB_model_num
+ATOM   1  N N1  . U KC ? 839 ? 173.299 255.304 277.230 1.0 76.39 848  a 1 
+ATOM   2  C C2  . U KC ? 839 ? 173.010 255.826 278.477 1.0 75.65 848  a 1 
+ATOM   3  N N3  . U KC ? 839 ? 171.978 255.197 279.126 1.0 76.05 848  a 1 
+ATOM   4  C C4  . U KC ? 839 ? 171.223 254.136 278.669 1.0 75.11 848  a 1 
+ATOM   5  O O4  . U KC ? 839 ? 170.323 253.679 279.373 1.0 73.15 848  a 1 
+ATOM   6  C C5  . U KC ? 839 ? 171.589 253.658 277.374 1.0 73.63 848  a 1 
+ATOM   7  C C6  . U KC ? 839 ? 172.585 254.249 276.714 1.0 72.1  848  a 1 
+ATOM   8  N N4  . C KC ? 841 ? 172.481 251.443 274.011 1.0 42.57 850  a 1 
+ATOM   9  C C6  . A KC ? 842 ? 169.066 250.004 271.753 1.0 26.27 851  a 1 
+ATOM   10 N N6  . A KC ? 842 ? 169.187 251.085 272.513 1.0 32.44 851  a 1 
+ATOM   11 O OP2 . A KC ? 921 ? 163.848 255.892 278.511 1.0 45.29 930  a 1 
+ATOM   12 C C8  . A KC ? 921 ? 163.324 253.313 275.446 1.0 31.47 930  a 1 
+ATOM   13 N N7  . A KC ? 921 ? 164.466 253.372 274.825 1.0 34.21 930  a 1 
+ATOM   14 C C5  . A KC ? 921 ? 164.362 252.408 273.845 1.0 33.77 930  a 1 
+ATOM   15 C C6  . A KC ? 921 ? 165.243 251.979 272.848 1.0 32.86 930  a 1 
+ATOM   16 N N6  . A KC ? 921 ? 166.455 252.484 272.663 1.0 33.12 930  a 1 
+ATOM   17 C C4  . A KC ? 921 ? 163.137 251.783 273.907 1.0 36.11 930  a 1 
+ATOM   18 N N1  . U KC ? 922 ? 164.572 248.415 275.401 1.0 33.96 931  a 1 
+ATOM   19 C C2  . U KC ? 922 ? 165.518 248.336 274.408 1.0 32.61 931  a 1 
+ATOM   20 N N3  . U KC ? 922 ? 166.514 249.262 274.462 1.0 31.11 931  a 1 
+ATOM   21 C C4  . U KC ? 922 ? 166.652 250.240 275.403 1.0 30.84 931  a 1 
+ATOM   22 O O4  . U KC ? 922 ? 167.597 251.004 275.318 1.0 36.97 931  a 1 
+ATOM   23 C C5  . U KC ? 922 ? 165.635 250.264 276.396 1.0 29.38 931  a 1 
+ATOM   24 C C6  . U KC ? 922 ? 164.650 249.371 276.369 1.0 30.85 931  a 1 
+ATOM   25 N N7  . G KC ? 923 ? 168.582 247.510 276.621 1.0 38.29 932  a 1 
+ATOM   26 C C5  . G KC ? 923 ? 169.392 247.461 275.505 1.0 36.44 932  a 1 
+ATOM   27 C C6  . G KC ? 923 ? 170.288 248.408 274.965 1.0 33.5  932  a 1 
+ATOM   28 O O6  . G KC ? 923 ? 170.548 249.526 275.392 1.0 43.3  932  a 1 
+HETATM 29 K K   . K BE ? .   ? 168.136 252.734 276.949 1.0 30.0  3131 a 1 
+#

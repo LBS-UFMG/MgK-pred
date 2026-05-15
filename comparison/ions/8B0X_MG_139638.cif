@@ -1,0 +1,43 @@
+data_8B0X
+#
+loop_
+_atom_site.group_PDB
+_atom_site.id
+_atom_site.type_symbol
+_atom_site.label_atom_id
+_atom_site.label_alt_id
+_atom_site.label_comp_id
+_atom_site.label_asym_id
+_atom_site.label_entity_id
+_atom_site.label_seq_id
+_atom_site.pdbx_PDB_ins_code
+_atom_site.Cartn_x
+_atom_site.Cartn_y
+_atom_site.Cartn_z
+_atom_site.occupancy
+_atom_site.B_iso_or_equiv
+_atom_site.auth_seq_id
+_atom_site.auth_asym_id
+_atom_site.pdbx_PDB_model_num
+ATOM   1  C  'C2'' . A   S  ? 1216 ? 201.194 277.796 122.973 1.0 77.39 1254 A 1 
+ATOM   2  O  'O2'' . A   S  ? 1216 ? 200.145 277.528 123.890 1.0 78.03 1254 A 1 
+ATOM   3  P  P     . G   S  ? 1318 ? 202.994 278.080 128.878 1.0 68.22 1356 A 1 
+ATOM   4  O  OP1   . G   S  ? 1318 ? 202.257 278.845 127.851 1.0 69.43 1356 A 1 
+ATOM   5  O  OP2   . G   S  ? 1318 ? 202.524 278.132 130.275 1.0 67.8  1356 A 1 
+ATOM   6  O  'O5'' . G   S  ? 1318 ? 203.003 276.561 128.418 1.0 71.75 1356 A 1 
+ATOM   7  C  'C5'' . G   S  ? 1318 ? 203.500 276.186 127.144 1.0 67.43 1356 A 1 
+ATOM   8  C  'C4'' . G   S  ? 1318 ? 203.575 274.689 127.009 1.0 66.37 1356 A 1 
+ATOM   9  C  'C3'' . G   S  ? 1318 ? 202.287 273.939 127.289 1.0 66.43 1356 A 1 
+ATOM   10 O  'O3'' . G   S  ? 1318 ? 201.439 273.919 126.156 1.0 67.14 1356 A 1 
+ATOM   11 P  P     . A   S  ? 1319 ? 199.858 273.714 126.303 1.0 72.57 1357 A 1 
+ATOM   12 O  OP1   . A   S  ? 1319 ? 199.231 274.125 125.032 1.0 69.04 1357 A 1 
+ATOM   13 O  OP2   . A   S  ? 1319 ? 199.408 274.331 127.567 1.0 70.34 1357 A 1 
+ATOM   14 O  'O5'' . A   S  ? 1319 ? 199.677 272.141 126.430 1.0 69.38 1357 A 1 
+ATOM   15 C  C2    . C   S  ? 1321 ? 194.125 273.254 130.009 1.0 66.53 1359 A 1 
+ATOM   16 N  N3    . C   S  ? 1321 ? 195.123 273.565 129.157 1.0 66.23 1359 A 1 
+ATOM   17 C  C4    . C   S  ? 1321 ? 195.269 272.879 128.029 1.0 66.88 1359 A 1 
+ATOM   18 N  N4    . C   S  ? 1321 ? 196.266 273.214 127.214 1.0 65.96 1359 A 1 
+HETATM 19 MG MG    . MG  GA ? .    ? 198.168 276.864 127.969 1.0 68.07 1721 A 1 
+HETATM 20 O  O     . HOH JA ? .    ? 199.606 273.557 131.101 1.0 70.54 1840 A 1 
+HETATM 21 O  O     . HOH JA ? .    ? 197.188 274.933 129.968 1.0 68.11 2338 A 1 
+#

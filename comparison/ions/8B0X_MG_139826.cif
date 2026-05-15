@@ -1,0 +1,64 @@
+data_8B0X
+#
+loop_
+_atom_site.group_PDB
+_atom_site.id
+_atom_site.type_symbol
+_atom_site.label_atom_id
+_atom_site.label_alt_id
+_atom_site.label_comp_id
+_atom_site.label_asym_id
+_atom_site.label_entity_id
+_atom_site.label_seq_id
+_atom_site.pdbx_PDB_ins_code
+_atom_site.Cartn_x
+_atom_site.Cartn_y
+_atom_site.Cartn_z
+_atom_site.occupancy
+_atom_site.B_iso_or_equiv
+_atom_site.auth_seq_id
+_atom_site.auth_asym_id
+_atom_site.pdbx_PDB_model_num
+ATOM   1  P  P     . A   GC ? 374 ? 257.884 229.722 255.872 1.0 35.57 374   a 1 
+ATOM   2  O  OP1   . A   GC ? 374 ? 256.697 229.180 256.549 1.0 40.58 374   a 1 
+ATOM   3  O  OP2   . A   GC ? 374 ? 257.979 229.674 254.408 1.0 36.92 374   a 1 
+ATOM   4  O  'O5'' . A   GC ? 374 ? 258.043 231.238 256.314 1.0 34.99 374   a 1 
+ATOM   5  P  P     . G   GC ? 375 ? 254.791 234.438 256.465 1.0 30.69 375   a 1 
+ATOM   6  O  OP2   . G   GC ? 375 ? 254.572 233.163 255.770 1.0 35.23 375   a 1 
+ATOM   7  O  'O5'' . G   GC ? 375 ? 255.244 235.499 255.372 1.0 37.87 375   a 1 
+ATOM   8  C  C8    . G   GC ? 375 ? 257.491 234.827 253.018 1.0 24.17 375   a 1 
+ATOM   9  N  N7    . G   GC ? 375 ? 257.733 233.796 252.276 1.0 28.36 375   a 1 
+ATOM   10 C  C5    . G   GC ? 375 ? 258.212 234.318 251.097 1.0 22.17 375   a 1 
+ATOM   11 C  C6    . G   GC ? 375 ? 258.641 233.675 249.918 1.0 23.29 375   a 1 
+ATOM   12 O  O6    . G   GC ? 375 ? 258.677 232.476 249.679 1.0 32.9  375   a 1 
+ATOM   13 O  OP2   . G   GC ? 376 ? 252.897 236.092 252.405 1.0 37.1  376   a 1 
+ATOM   14 C  C8    . G   GC ? 376 ? 255.427 235.342 249.223 1.0 23.3  376   a 1 
+ATOM   15 N  N7    . G   GC ? 376 ? 255.465 234.045 249.204 1.0 27.31 376   a 1 
+ATOM   16 C  C5    . G   GC ? 376 ? 255.764 233.727 247.893 1.0 23.79 376   a 1 
+ATOM   17 C  C6    . G   GC ? 376 ? 255.920 232.471 247.262 1.0 21.6  376   a 1 
+ATOM   18 O  O6    . G   GC ? 376 ? 255.850 231.359 247.769 1.0 31.98 376   a 1 
+ATOM   19 C  C4    . U   GC ? 395 ? 249.510 228.938 251.523 1.0 21.9  395   a 1 
+ATOM   20 O  O4    . U   GC ? 395 ? 249.146 230.094 251.468 1.0 37.88 395   a 1 
+ATOM   21 C  C5    . U   GC ? 395 ? 250.538 228.436 252.359 1.0 21.73 395   a 1 
+ATOM   22 C  C6    . U   GC ? 395 ? 250.836 227.146 252.312 1.0 24.51 395   a 1 
+HETATM 23 MG MG    . MG  YD ? .   ? 256.860 230.265 250.031 1.0 24.61 3031  a 1 
+HETATM 24 MG MG    . MG  CE ? .   ? 254.212 231.177 252.345 1.0 40.42 3163  a 1 
+HETATM 25 O  O     . HOH JE ? .   ? 251.669 228.076 249.273 1.0 33.12 3809  a 1 
+HETATM 26 O  O     . HOH JE ? .   ? 258.259 228.594 251.995 1.0 37.17 4816  a 1 
+HETATM 27 O  O     . HOH JE ? .   ? 254.007 230.915 254.388 1.0 33.99 5341  a 1 
+HETATM 28 O  O     . HOH JE ? .   ? 256.512 231.366 252.864 1.0 30.67 5670  a 1 
+HETATM 29 O  O     . HOH JE ? .   ? 253.995 231.653 258.082 1.0 37.2  5747  a 1 
+HETATM 30 O  O     . HOH JE ? .   ? 252.195 228.803 255.469 1.0 31.75 6306  a 1 
+HETATM 31 O  O     . HOH JE ? .   ? 251.448 234.598 250.573 1.0 34.86 6489  a 1 
+HETATM 32 O  O     . HOH JE ? .   ? 250.155 232.114 256.581 1.0 38.97 7128  a 1 
+HETATM 33 O  O     . HOH JE ? .   ? 255.119 228.072 249.550 1.0 29.84 7375  a 1 
+HETATM 34 O  O     . HOH JE ? .   ? 255.119 227.341 253.968 1.0 43.6  7449  a 1 
+HETATM 35 O  O     . HOH JE ? .   ? 254.149 233.258 252.935 1.0 32.77 7848  a 1 
+HETATM 36 O  O     . HOH JE ? .   ? 252.926 230.265 248.440 1.0 30.1  7950  a 1 
+HETATM 37 O  O     . HOH JE ? .   ? 254.388 231.727 250.555 1.0 34.23 8125  a 1 
+HETATM 38 O  O     . HOH JE ? .   ? 251.934 232.956 248.296 1.0 37.41 8247  a 1 
+HETATM 39 O  O     . HOH JE ? .   ? 251.464 235.382 255.178 1.0 41.36 9382  a 1 
+HETATM 40 O  O     . HOH JE ? .   ? 251.889 231.726 252.195 1.0 39.8  9760  a 1 
+HETATM 41 O  O     . HOH JE ? .   ? 250.733 233.085 254.342 1.0 46.74 10118 a 1 
+HETATM 42 O  O     . HOH JE ? .   ? 254.246 229.083 252.025 1.0 38.48 10254 a 1 
+#

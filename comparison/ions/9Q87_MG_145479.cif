@@ -1,0 +1,67 @@
+data_9Q87
+#
+loop_
+_atom_site.group_PDB
+_atom_site.id
+_atom_site.type_symbol
+_atom_site.label_atom_id
+_atom_site.label_alt_id
+_atom_site.label_comp_id
+_atom_site.label_asym_id
+_atom_site.label_entity_id
+_atom_site.label_seq_id
+_atom_site.pdbx_PDB_ins_code
+_atom_site.Cartn_x
+_atom_site.Cartn_y
+_atom_site.Cartn_z
+_atom_site.occupancy
+_atom_site.B_iso_or_equiv
+_atom_site.auth_seq_id
+_atom_site.auth_asym_id
+_atom_site.pdbx_PDB_model_num
+ATOM   1  O  OP2 . A   YD ? 19  ? 171.810 185.075 276.264 1.0 16.26891 19    a 1 
+ATOM   2  O  OP2 . C   YD ? 20  ? 172.789 184.943 281.065 1.0 25.80924 20    a 1 
+ATOM   3  P  P   . A   YD ? 515 ? 182.748 185.270 275.908 1.0 15.47596 515   a 1 
+ATOM   4  O  OP1 . A   YD ? 515 ? 181.334 185.672 275.880 1.0 15.61395 515   a 1 
+ATOM   5  O  OP2 . A   YD ? 515 ? 183.191 184.002 276.513 1.0 16.44817 515   a 1 
+HETATM 6  K  K   . K   GG ? .   ? 179.835 184.211 274.272 1.0 46.98283 3049  a 1 
+HETATM 7  O  O   . HOH HI ? .   ? 174.016 187.866 278.155 1.0 28.19413 3580  a 1 
+HETATM 8  O  O   . HOH HI ? .   ? 178.896 187.153 281.505 1.0 50.34146 4924  a 1 
+HETATM 9  O  O   . HOH HI ? .   ? 174.020 185.676 274.856 1.0 17.13965 5046  a 1 
+HETATM 10 O  O   . HOH HI ? .   ? 174.860 186.414 280.174 1.0 45.27989 5152  a 1 
+HETATM 11 O  O   . HOH HI ? .   ? 180.557 188.255 276.162 1.0 19.16397 5713  a 1 
+HETATM 12 O  O   . HOH HI ? .   ? 179.533 185.079 277.856 1.0 26.49604 6530  a 1 
+HETATM 13 O  O   . HOH HI ? .   ? 181.256 182.464 277.780 1.0 31.14442 8058  a 1 
+HETATM 14 O  O   . HOH HI ? .   ? 172.799 183.629 278.518 1.0 23.20817 10913 a 1 
+HETATM 15 O  O   . HOH HI ? .   ? 180.955 186.116 279.984 1.0 29.98343 12156 a 1 
+HETATM 16 O  O   . HOH HI ? .   ? 179.826 181.399 275.511 1.0 27.56223 14582 a 1 
+HETATM 17 O  O   . HOH HI ? .   ? 181.121 188.598 278.770 1.0 39.10106 15938 a 1 
+HETATM 18 O  O   . HOH HI ? .   ? 175.531 185.773 277.049 1.0 29.17    15970 a 1 
+HETATM 19 O  O   . HOH HI ? .   ? 177.162 180.494 275.310 1.0 41.18845 16250 a 1 
+HETATM 20 O  O   . HOH HI ? .   ? 175.099 182.383 277.834 1.0 48.56068 16819 a 1 
+HETATM 21 O  O   . HOH HI ? .   ? 177.206 183.700 278.511 1.0 37.29565 17091 a 1 
+ATOM   22 N  N   . SER BK ? 28  ? 174.726 190.436 272.131 1.0 7.0315   29    p 1 
+ATOM   23 C  CA  . SER BK ? 28  ? 174.900 190.174 273.553 1.0 7.02863  29    p 1 
+ATOM   24 C  C   . SER BK ? 28  ? 176.239 189.544 273.917 1.0 8.32878  29    p 1 
+ATOM   25 O  O   . SER BK ? 28  ? 176.446 189.250 275.087 1.0 16.79571 29    p 1 
+ATOM   26 C  CB  . SER BK ? 28  ? 173.780 189.281 274.097 1.0 7.23764  29    p 1 
+ATOM   27 O  OG  . SER BK ? 28  ? 173.727 188.056 273.394 1.0 12.95432 29    p 1 
+ATOM   28 N  N   . ARG BK ? 29  ? 177.162 189.365 272.969 1.0 9.01631  30    p 1 
+ATOM   29 C  CA  . ARG BK ? 29  ? 178.382 188.605 273.237 1.0 6.77089  30    p 1 
+ATOM   30 C  C   . ARG BK ? 29  ? 179.671 189.375 272.917 1.0 7.25743  30    p 1 
+ATOM   31 O  O   . ARG BK ? 29  ? 180.681 189.203 273.588 1.0 17.18405 30    p 1 
+ATOM   32 C  CB  . ARG BK ? 29  ? 178.373 187.307 272.425 1.0 8.90615  30    p 1 
+ATOM   33 C  CG  . ARG BK ? 29  ? 177.180 186.405 272.663 1.0 9.78269  30    p 1 
+ATOM   34 C  CD  . ARG BK ? 29  ? 177.212 185.259 271.674 1.0 9.40845  30    p 1 
+ATOM   35 N  NE  . ARG BK ? 29  ? 176.315 184.158 271.993 1.0 12.20881 30    p 1 
+ATOM   36 C  CZ  . ARG BK ? 29  ? 174.999 184.198 271.856 1.0 12.78916 30    p 1 
+ATOM   37 N  NH1 . ARG BK ? 29  ? 174.383 185.298 271.467 1.0 11.47051 30    p 1 
+ATOM   38 N  NH2 . ARG BK ? 29  ? 174.288 183.098 272.096 1.0 15.92976 30    p 1 
+HETATM 39 MG MG  . MG  CK ? .   ? 177.533 185.469 277.486 1.0 43.48288 201   p 1 
+HETATM 40 O  O   . HOH DK ? .   ? 175.440 190.158 277.543 1.0 19.47702 325   p 1 
+HETATM 41 O  O   . HOH DK ? .   ? 177.961 187.276 276.569 1.0 29.80299 352   p 1 
+HETATM 42 O  O   . HOH DK ? .   ? 175.163 183.028 275.088 1.0 31.19972 380   p 1 
+HETATM 43 O  O   . HOH DK ? .   ? 177.081 189.329 279.584 1.0 40.05686 394   p 1 
+HETATM 44 O  O   . HOH DK ? .   ? 177.522 184.212 275.842 1.0 33.62621 411   p 1 
+HETATM 45 O  O   . HOH DK ? .   ? 177.526 186.495 279.283 1.0 31.14538 417   p 1 
+#

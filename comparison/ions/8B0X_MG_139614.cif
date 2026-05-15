@@ -1,0 +1,58 @@
+data_8B0X
+#
+loop_
+_atom_site.group_PDB
+_atom_site.id
+_atom_site.type_symbol
+_atom_site.label_atom_id
+_atom_site.label_alt_id
+_atom_site.label_comp_id
+_atom_site.label_asym_id
+_atom_site.label_entity_id
+_atom_site.label_seq_id
+_atom_site.pdbx_PDB_ins_code
+_atom_site.Cartn_x
+_atom_site.Cartn_y
+_atom_site.Cartn_z
+_atom_site.occupancy
+_atom_site.B_iso_or_equiv
+_atom_site.auth_seq_id
+_atom_site.auth_asym_id
+_atom_site.pdbx_PDB_model_num
+ATOM   1  C  C4    . U   Q  ? 1039 ? 229.013 213.212 118.987 1.0 40.85 1076 A 1 
+ATOM   2  O  O4    . U   Q  ? 1039 ? 227.880 213.452 118.591 1.0 43.98 1076 A 1 
+ATOM   3  C  C5    . U   Q  ? 1039 ? 230.071 212.676 118.201 1.0 40.43 1076 A 1 
+ATOM   4  N  N9    . G   Q  ? 1040 ? 228.632 209.921 122.655 1.0 39.69 1077 A 1 
+ATOM   5  C  C8    . G   Q  ? 1040 ? 229.003 209.772 121.348 1.0 36.38 1077 A 1 
+ATOM   6  N  N7    . G   Q  ? 1040 ? 228.091 210.195 120.531 1.0 37.72 1077 A 1 
+ATOM   7  C  C5    . G   Q  ? 1040 ? 227.062 210.621 121.345 1.0 34.95 1077 A 1 
+ATOM   8  C  C6    . G   Q  ? 1040 ? 225.813 211.181 121.033 1.0 39.47 1077 A 1 
+ATOM   9  O  O6    . G   Q  ? 1040 ? 225.333 211.416 119.931 1.0 48.38 1077 A 1 
+ATOM   10 N  N1    . G   Q  ? 1040 ? 225.079 211.466 122.165 1.0 39.18 1077 A 1 
+ATOM   11 C  C4    . G   Q  ? 1040 ? 227.379 210.451 122.657 1.0 37.85 1077 A 1 
+ATOM   12 O  'O3'' . U   Q  ? 1041 ? 224.740 205.420 121.523 1.0 45.17 1078 A 1 
+ATOM   13 P  P     . G   Q  ? 1042 ? 224.876 207.000 121.303 1.0 48.41 1079 A 1 
+ATOM   14 O  OP1   . G   Q  ? 1042 ? 224.362 207.298 119.958 1.0 47.98 1079 A 1 
+ATOM   15 O  OP2   . G   Q  ? 1042 ? 226.241 207.426 121.645 1.0 39.74 1079 A 1 
+ATOM   16 O  'O5'' . G   Q  ? 1042 ? 223.861 207.633 122.346 1.0 41.12 1079 A 1 
+HETATM 17 MG MG    . MG  GA ? .    ? 226.610 208.335 117.602 1.0 59.1  1697 A 1 
+HETATM 18 O  O     . HOH JA ? .    ? 230.953 208.883 117.691 1.0 49.75 2240 A 1 
+HETATM 19 O  O     . HOH JA ? .    ? 230.348 205.937 119.884 1.0 50.56 2329 A 1 
+HETATM 20 O  O     . HOH JA ? .    ? 222.955 205.657 118.448 1.0 52.21 2468 A 1 
+HETATM 21 O  O     . HOH JA ? .    ? 230.301 211.259 114.384 1.0 55.13 2685 A 1 
+HETATM 22 O  O     . HOH JA ? .    ? 227.958 206.873 119.520 1.0 47.35 3229 A 1 
+HETATM 23 O  O     . HOH JA ? .    ? 228.152 209.592 117.774 1.0 47.41 3408 A 1 
+HETATM 24 O  O     . HOH JA ? .    ? 223.008 212.286 118.422 1.0 50.81 3776 A 1 
+ATOM   25 N  N     . ARG QA ? 129  ? 221.164 198.003 117.951 1.0 43.19 138  E 1 
+ATOM   26 C  CA    . ARG QA ? 129  ? 222.603 197.790 117.863 1.0 42.13 138  E 1 
+ATOM   27 C  C     . ARG QA ? 129  ? 222.961 196.329 118.084 1.0 41.47 138  E 1 
+ATOM   28 O  O     . ARG QA ? 129  ? 223.803 195.780 117.372 1.0 49.38 138  E 1 
+ATOM   29 C  CB    . ARG QA ? 129  ? 223.333 198.673 118.870 1.0 41.17 138  E 1 
+ATOM   30 C  CG    . ARG QA ? 129  ? 223.353 200.145 118.523 1.0 42.77 138  E 1 
+ATOM   31 C  CD    . ARG QA ? 129  ? 224.133 200.917 119.569 1.0 43.7  138  E 1 
+ATOM   32 N  NE    . ARG QA ? 129  ? 224.208 202.338 119.261 1.0 45.89 138  E 1 
+ATOM   33 C  CZ    . ARG QA ? 129  ? 225.259 202.926 118.713 1.0 46.1  138  E 1 
+ATOM   34 N  NH1   . ARG QA ? 129  ? 226.343 202.242 118.394 1.0 46.02 138  E 1 
+ATOM   35 N  NH2   . ARG QA ? 129  ? 225.224 204.233 118.488 1.0 46.36 138  E 1 
+HETATM 36 O  O     . HOH RA ? .    ? 224.417 206.279 116.283 1.0 51.18 234  E 1 
+#

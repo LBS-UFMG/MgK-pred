@@ -1,0 +1,74 @@
+data_8B0X
+#
+loop_
+_atom_site.group_PDB
+_atom_site.id
+_atom_site.type_symbol
+_atom_site.label_atom_id
+_atom_site.label_alt_id
+_atom_site.label_comp_id
+_atom_site.label_asym_id
+_atom_site.label_entity_id
+_atom_site.label_seq_id
+_atom_site.pdbx_PDB_ins_code
+_atom_site.Cartn_x
+_atom_site.Cartn_y
+_atom_site.Cartn_z
+_atom_site.occupancy
+_atom_site.B_iso_or_equiv
+_atom_site.auth_seq_id
+_atom_site.auth_asym_id
+_atom_site.pdbx_PDB_model_num
+ATOM   1  O  'O3'' . G   Q  ? 1010 ? 176.108 249.050 123.654 1.0 90.33 1047 A 1 
+ATOM   2  P  P     . G   Q  ? 1011 ? 177.567 248.494 124.023 1.0 84.73 1048 A 1 
+ATOM   3  O  OP1   . G   Q  ? 1011 ? 178.460 249.642 124.270 1.0 82.08 1048 A 1 
+ATOM   4  O  OP2   . G   Q  ? 1011 ? 177.947 247.481 123.015 1.0 81.67 1048 A 1 
+ATOM   5  O  'O5'' . G   Q  ? 1011 ? 177.339 247.743 125.404 1.0 82.03 1048 A 1 
+ATOM   6  P  P     . U   Q  ? 1012 ? 180.828 247.394 127.869 1.0 76.9  1049 A 1 
+ATOM   7  O  OP1   . U   Q  ? 1012 ? 181.066 248.360 126.779 1.0 73.6  1049 A 1 
+ATOM   8  O  OP2   . U   Q  ? 1012 ? 181.002 245.952 127.596 1.0 74.49 1049 A 1 
+ATOM   9  O  OP1   . C   Q  ? 1166 ? 185.761 250.198 125.298 1.0 68.05 1203 A 1 
+ATOM   10 C  'C5'' . C   Q  ? 1166 ? 187.618 250.129 123.039 1.0 64.2  1203 A 1 
+ATOM   11 O  'O3'' . C   Q  ? 1166 ? 187.088 248.222 120.511 1.0 64.8  1203 A 1 
+ATOM   12 P  P     . A   Q  ? 1167 ? 186.016 247.035 120.615 1.0 73.33 1204 A 1 
+ATOM   13 O  OP1   . A   Q  ? 1167 ? 184.898 247.349 119.704 1.0 68.36 1204 A 1 
+ATOM   14 O  OP2   . A   Q  ? 1167 ? 185.727 246.781 122.042 1.0 67.21 1204 A 1 
+HETATM 15 MG MG    . MG  GA ? .    ? 181.817 248.792 122.578 1.0 80.14 1687 A 1 
+HETATM 16 O  O     . HOH JA ? .    ? 183.328 250.002 125.928 1.0 77.1  2098 A 1 
+HETATM 17 O  O     . HOH JA ? .    ? 182.672 248.510 120.790 1.0 66.54 2952 A 1 
+HETATM 18 O  O     . HOH JA ? .    ? 180.285 248.450 121.346 1.0 78.82 4205 A 1 
+HETATM 19 O  O     . HOH JA ? .    ? 183.481 249.384 123.339 1.0 70.58 4379 A 1 
+ATOM   20 N  N     . ALA MB ? 1    ? 184.768 252.951 125.001 1.0 73.02 2    N 1 
+ATOM   21 C  CA    . ALA MB ? 1    ? 183.601 253.488 125.687 1.0 72.98 2    N 1 
+ATOM   22 C  C     . ALA MB ? 1    ? 182.341 252.818 125.178 1.0 73.74 2    N 1 
+ATOM   23 O  O     . ALA MB ? 1    ? 182.324 252.280 124.078 1.0 75.1  2    N 1 
+ATOM   24 C  CB    . ALA MB ? 1    ? 183.517 254.982 125.499 1.0 72.82 2    N 1 
+ATOM   25 N  N     . LYS MB ? 2    ? 181.290 252.842 125.990 1.0 76.07 3    N 1 
+ATOM   26 C  CA    . LYS MB ? 2    ? 180.027 252.246 125.591 1.0 75.67 3    N 1 
+ATOM   27 C  C     . LYS MB ? 2    ? 179.402 253.044 124.454 1.0 78.38 3    N 1 
+ATOM   28 O  O     . LYS MB ? 2    ? 179.685 254.228 124.263 1.0 80.0  3    N 1 
+ATOM   29 C  CB    . LYS MB ? 2    ? 179.071 252.179 126.779 1.0 75.64 3    N 1 
+ATOM   30 C  CG    . LYS MB ? 2    ? 179.485 251.163 127.816 1.0 77.01 3    N 1 
+ATOM   31 C  CD    . LYS MB ? 2    ? 178.481 251.030 128.944 1.0 76.57 3    N 1 
+ATOM   32 C  CE    . LYS MB ? 2    ? 177.938 252.367 129.392 1.0 75.73 3    N 1 
+ATOM   33 N  NZ    . LYS MB ? 2    ? 176.953 252.195 130.490 1.0 75.65 3    N 1 
+ATOM   34 N  N     . GLN MB ? 3    ? 178.549 252.369 123.679 1.0 80.12 4    N 1 
+ATOM   35 C  CA    . GLN MB ? 3    ? 177.868 253.045 122.581 1.0 81.15 4    N 1 
+ATOM   36 C  C     . GLN MB ? 3    ? 177.016 254.193 123.094 1.0 81.84 4    N 1 
+ATOM   37 O  O     . GLN MB ? 3    ? 177.028 255.288 122.522 1.0 81.58 4    N 1 
+ATOM   38 C  CB    . GLN MB ? 3    ? 177.013 252.053 121.794 1.0 80.81 4    N 1 
+ATOM   39 C  CG    . GLN MB ? 3    ? 177.809 251.026 121.006 1.0 80.38 4    N 1 
+ATOM   40 C  CD    . GLN MB ? 3    ? 178.715 251.649 119.968 1.0 80.39 4    N 1 
+ATOM   41 O  OE1   . GLN MB ? 3    ? 179.767 252.195 120.287 1.0 80.63 4    N 1 
+ATOM   42 N  NE2   . GLN MB ? 3    ? 178.307 251.572 118.712 1.0 81.14 4    N 1 
+ATOM   43 N  N     . LYS MB ? 6    ? 179.095 257.186 123.812 1.0 79.06 7    N 1 
+ATOM   44 C  CA    . LYS MB ? 6    ? 179.512 257.888 122.605 1.0 79.03 7    N 1 
+ATOM   45 C  C     . LYS MB ? 6    ? 178.391 258.764 122.068 1.0 79.41 7    N 1 
+ATOM   46 O  O     . LYS MB ? 6    ? 178.629 259.901 121.650 1.0 80.38 7    N 1 
+ATOM   47 C  CB    . LYS MB ? 6    ? 179.961 256.885 121.545 1.0 78.81 7    N 1 
+ATOM   48 C  CG    . LYS MB ? 6    ? 181.174 256.076 121.937 1.0 78.67 7    N 1 
+ATOM   49 C  CD    . LYS MB ? 6    ? 181.970 255.666 120.720 1.0 78.13 7    N 1 
+ATOM   50 C  CE    . LYS MB ? 6    ? 182.568 254.286 120.894 1.0 78.34 7    N 1 
+ATOM   51 N  NZ    . LYS MB ? 6    ? 182.871 253.657 119.583 1.0 77.86 7    N 1 
+HETATM 52 O  O     . HOH NB ? .    ? 181.334 250.733 122.153 1.0 80.6  203  N 1 
+#

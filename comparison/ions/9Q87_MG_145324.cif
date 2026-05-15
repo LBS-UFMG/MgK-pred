@@ -1,0 +1,57 @@
+data_9Q87
+#
+loop_
+_atom_site.group_PDB
+_atom_site.id
+_atom_site.type_symbol
+_atom_site.label_atom_id
+_atom_site.label_alt_id
+_atom_site.label_comp_id
+_atom_site.label_asym_id
+_atom_site.label_entity_id
+_atom_site.label_seq_id
+_atom_site.pdbx_PDB_ins_code
+_atom_site.Cartn_x
+_atom_site.Cartn_y
+_atom_site.Cartn_z
+_atom_site.occupancy
+_atom_site.B_iso_or_equiv
+_atom_site.auth_seq_id
+_atom_site.auth_asym_id
+_atom_site.pdbx_PDB_model_num
+ATOM   1  O  OP2 . C   CE ? 950 ? 162.793 232.865 242.695 1.0 27.80874 953   a 1 
+ATOM   2  N  N3  . C   CE ? 950 ? 168.117 236.111 244.829 1.0 11.47808 953   a 1 
+ATOM   3  C  C4  . C   CE ? 950 ? 167.835 234.916 244.327 1.0 10.94205 953   a 1 
+ATOM   4  N  N4  . C   CE ? 950 ? 168.861 234.119 244.007 1.0 14.48215 953   a 1 
+ATOM   5  C  C5  . C   CE ? 950 ? 166.480 234.503 244.163 1.0 10.80062 953   a 1 
+ATOM   6  C  C6  . C   CE ? 950 ? 165.504 235.343 244.533 1.0 10.89922 953   a 1 
+ATOM   7  C  C8  . G   CE ? 951 ? 167.659 238.206 241.813 1.0 11.34071 954   a 1 
+ATOM   8  N  N7  . G   CE ? 951 ? 168.368 237.110 241.791 1.0 13.74688 954   a 1 
+ATOM   9  C  C5  . G   CE ? 951 ? 169.692 237.534 241.723 1.0 10.68113 954   a 1 
+ATOM   10 C  C6  . G   CE ? 951 ? 170.909 236.785 241.682 1.0 10.70674 954   a 1 
+ATOM   11 O  O6  . G   CE ? 951 ? 171.054 235.562 241.694 1.0 15.67259 954   a 1 
+ATOM   12 C  C8  . G   CE ? 952 ? 170.135 237.168 238.236 1.0 12.11146 955   a 1 
+ATOM   13 N  N7  . G   CE ? 952 ? 170.403 235.925 238.498 1.0 13.98735 955   a 1 
+ATOM   14 C  C5  . G   CE ? 952 ? 171.785 235.850 238.479 1.0 9.03467  955   a 1 
+ATOM   15 C  C6  . G   CE ? 952 ? 172.662 234.762 238.712 1.0 9.89455  955   a 1 
+ATOM   16 O  O6  . G   CE ? 952 ? 172.385 233.611 239.006 1.0 17.11821 955   a 1 
+ATOM   17 N  N4  . C   EE ? 963 ? 173.642 234.212 241.961 1.0 10.66148 967   a 1 
+HETATM 18 K  K   . K   AH ? .   ? 171.431 231.727 236.844 1.0 31.71067 3336  a 1 
+HETATM 19 MG MG  . MG  BH ? .   ? 168.130 232.838 240.162 1.0 39.20815 3337  a 1 
+HETATM 20 O  O   . HOH HI ? .   ? 170.140 233.200 240.499 1.0 18.53808 6172  a 1 
+HETATM 21 O  O   . HOH HI ? .   ? 167.759 228.072 243.661 1.0 34.29981 9131  a 1 
+HETATM 22 O  O   . HOH HI ? .   ? 168.607 233.744 238.360 1.0 30.04498 10028 a 1 
+HETATM 23 O  O   . HOH HI ? .   ? 165.206 231.336 242.810 1.0 25.99546 11048 a 1 
+HETATM 24 O  O   . HOH HI ? .   ? 171.054 230.432 239.440 1.0 36.28516 11302 a 1 
+HETATM 25 O  O   . HOH HI ? .   ? 167.345 234.716 240.533 1.0 22.30614 11957 a 1 
+HETATM 26 O  O   . HOH HI ? .   ? 169.381 231.080 245.036 1.0 23.30379 13758 a 1 
+HETATM 27 O  O   . HOH HI ? .   ? 164.347 234.868 241.019 1.0 23.82805 14035 a 1 
+HETATM 28 O  O   . HOH HI ? .   ? 167.926 231.780 241.932 1.0 30.95011 15056 a 1 
+HETATM 29 O  O   . HOH HI ? .   ? 171.054 231.727 242.804 1.0 33.70031 15430 a 1 
+HETATM 30 O  O   . HOH HI ? .   ? 165.039 230.052 239.768 1.0 42.89794 16543 a 1 
+HETATM 31 O  O   . HOH HI ? .   ? 168.736 228.980 241.230 1.0 41.81514 16549 a 1 
+HETATM 32 O  O   . HOH HI ? .   ? 168.547 231.151 239.037 1.0 37.74908 16841 a 1 
+HETATM 33 O  O   . HOH HI ? .   ? 168.366 228.509 238.306 1.0 39.58949 16992 a 1 
+HETATM 34 O  O   . HOH HI ? .   ? 166.328 232.458 239.213 1.0 36.52894 17056 a 1 
+HETATM 35 O  O   . HOH UJ ? .   ? 166.668 235.883 237.928 1.0 35.82685 284   l 1 
+#

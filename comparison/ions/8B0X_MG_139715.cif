@@ -1,0 +1,50 @@
+data_8B0X
+#
+loop_
+_atom_site.group_PDB
+_atom_site.id
+_atom_site.type_symbol
+_atom_site.label_atom_id
+_atom_site.label_alt_id
+_atom_site.label_comp_id
+_atom_site.label_asym_id
+_atom_site.label_entity_id
+_atom_site.label_seq_id
+_atom_site.pdbx_PDB_ins_code
+_atom_site.Cartn_x
+_atom_site.Cartn_y
+_atom_site.Cartn_z
+_atom_site.occupancy
+_atom_site.B_iso_or_equiv
+_atom_site.auth_seq_id
+_atom_site.auth_asym_id
+_atom_site.pdbx_PDB_model_num
+ATOM   1  O  'O3'' . G   OC ? 1614 ? 205.096 157.158 204.839 1.0 37.26 1683 a 1 
+ATOM   2  P  P     . G   OC ? 1615 ? 206.313 156.897 203.841 1.0 32.87 1684 a 1 
+ATOM   3  O  OP1   . G   OC ? 1615 ? 207.376 157.866 204.140 1.0 35.9  1684 a 1 
+ATOM   4  O  OP2   . G   OC ? 1615 ? 205.753 156.836 202.486 1.0 32.92 1684 a 1 
+ATOM   5  O  'O5'' . G   OC ? 1615 ? 206.812 155.430 204.186 1.0 30.91 1684 a 1 
+ATOM   6  C  'C5'' . G   OC ? 1615 ? 207.489 155.128 205.394 1.0 25.28 1684 a 1 
+ATOM   7  C  'C4'' . G   OC ? 1615 ? 207.933 153.691 205.411 1.0 28.52 1684 a 1 
+ATOM   8  C  'C3'' . G   OC ? 1615 ? 208.727 153.243 204.197 1.0 28.9  1684 a 1 
+ATOM   9  O  'O3'' . G   OC ? 1615 ? 210.100 153.537 204.333 1.0 36.44 1684 a 1 
+ATOM   10 P  P     . U   OC ? 1616 ? 210.948 154.080 203.094 1.0 40.77 1685 a 1 
+ATOM   11 O  OP1   . U   OC ? 1616 ? 212.220 154.589 203.632 1.0 41.28 1685 a 1 
+ATOM   12 O  OP2   . U   OC ? 1616 ? 210.105 154.972 202.277 1.0 37.83 1685 a 1 
+ATOM   13 O  'O5'' . U   OC ? 1616 ? 211.259 152.771 202.251 1.0 39.71 1685 a 1 
+ATOM   14 N  N9    . G   OC ? 1632 ? 209.811 161.938 199.737 1.0 35.14 1701 a 1 
+ATOM   15 C  C8    . G   OC ? 1632 ? 210.507 162.717 200.619 1.0 31.38 1701 a 1 
+ATOM   16 N  N7    . G   OC ? 1632 ? 210.116 162.548 201.844 1.0 36.13 1701 a 1 
+ATOM   17 C  C5    . G   OC ? 1632 ? 209.120 161.597 201.764 1.0 30.0  1701 a 1 
+ATOM   18 C  C6    . G   OC ? 1632 ? 208.335 161.012 202.778 1.0 33.47 1701 a 1 
+ATOM   19 O  O6    . G   OC ? 1632 ? 208.359 161.229 203.980 1.0 41.13 1701 a 1 
+ATOM   20 N  N1    . G   OC ? 1632 ? 207.442 160.089 202.277 1.0 33.46 1701 a 1 
+ATOM   21 C  C2    . G   OC ? 1632 ? 207.317 159.766 200.959 1.0 33.34 1701 a 1 
+ATOM   22 N  N2    . G   OC ? 1632 ? 206.393 158.850 200.665 1.0 32.67 1701 a 1 
+ATOM   23 N  N3    . G   OC ? 1632 ? 208.047 160.300 200.004 1.0 33.07 1701 a 1 
+ATOM   24 C  C4    . G   OC ? 1632 ? 208.925 161.201 200.470 1.0 33.87 1701 a 1 
+HETATM 25 MG MG    . MG  YD ? .    ? 209.690 157.589 203.171 1.0 51.57 3052 a 1 
+HETATM 26 K  K     . K   FE ? .    ? 207.570 159.358 206.296 1.0 30.0  3270 a 1 
+HETATM 27 O  O     . HOH JE ? .    ? 207.364 155.355 200.993 1.0 44.16 4699 a 1 
+HETATM 28 O  O     . HOH JE ? .    ? 209.066 157.447 207.604 1.0 49.88 9598 a 1 
+#

@@ -1,0 +1,59 @@
+data_8B0X
+#
+loop_
+_atom_site.group_PDB
+_atom_site.id
+_atom_site.type_symbol
+_atom_site.label_atom_id
+_atom_site.label_alt_id
+_atom_site.label_comp_id
+_atom_site.label_asym_id
+_atom_site.label_entity_id
+_atom_site.label_seq_id
+_atom_site.pdbx_PDB_ins_code
+_atom_site.Cartn_x
+_atom_site.Cartn_y
+_atom_site.Cartn_z
+_atom_site.occupancy
+_atom_site.B_iso_or_equiv
+_atom_site.auth_seq_id
+_atom_site.auth_asym_id
+_atom_site.pdbx_PDB_model_num
+ATOM   1  O  OP1   . G   QC ? 1834 ? 219.777 209.934 210.431 1.0 37.15 1907  a 1 
+ATOM   2  O  'O5'' . G   QC ? 1834 ? 220.156 211.943 209.079 1.0 33.01 1907  a 1 
+ATOM   3  C  'C5'' . G   QC ? 1834 ? 219.828 212.235 207.737 1.0 24.55 1907  a 1 
+ATOM   4  O  'O3'' . G   QC ? 1834 ? 217.787 214.413 206.490 1.0 32.85 1907  a 1 
+ATOM   5  P  P     . G   QC ? 1835 ? 216.689 214.038 205.390 1.0 39.12 1908  a 1 
+ATOM   6  O  OP1   . G   QC ? 1835 ? 215.360 214.183 205.999 1.0 37.69 1908  a 1 
+ATOM   7  O  OP2   . G   QC ? 1835 ? 217.070 212.777 204.738 1.0 36.06 1908  a 1 
+ATOM   8  N  N3    . U   AD ? 1897 ? 217.734 207.506 209.078 1.0 31.97 1975  a 1 
+ATOM   9  C  C4    . U   AD ? 1897 ? 217.814 208.257 207.935 1.0 36.04 1975  a 1 
+ATOM   10 O  O4    . U   AD ? 1897 ? 217.231 209.333 207.899 1.0 42.68 1975  a 1 
+ATOM   11 C  C4    . C   VD ? 2417 ? 209.543 210.939 212.648 1.0 17.43 2598  a 1 
+ATOM   12 N  N4    . C   VD ? 2417 ? 210.337 209.876 212.720 1.0 21.56 2598  a 1 
+ATOM   13 C  C5    . C   VD ? 2417 ? 209.204 211.546 211.405 1.0 19.0  2598  a 1 
+ATOM   14 C  C8    . G   VD ? 2418 ? 211.673 213.972 213.503 1.0 19.87 2599  a 1 
+ATOM   15 N  N7    . G   VD ? 2418 ? 212.144 212.818 213.148 1.0 22.05 2599  a 1 
+ATOM   16 C  C5    . G   VD ? 2418 ? 212.530 212.204 214.324 1.0 20.55 2599  a 1 
+ATOM   17 C  C6    . G   VD ? 2418 ? 213.119 210.950 214.578 1.0 20.1  2599  a 1 
+ATOM   18 O  O6    . G   VD ? 2418 ? 213.431 210.090 213.768 1.0 34.03 2599  a 1 
+ATOM   19 O  'O3'' . U   VD ? 2419 ? 217.622 214.327 214.308 1.0 29.79 2600  a 1 
+ATOM   20 P  P     . G   VD ? 2420 ? 216.488 213.212 214.445 1.0 28.5  2601  a 1 
+ATOM   21 O  OP1   . G   VD ? 2420 ? 216.835 212.135 213.502 1.0 30.98 2601  a 1 
+ATOM   22 O  OP2   . G   VD ? 2420 ? 215.189 213.878 214.320 1.0 27.32 2601  a 1 
+HETATM 23 MG MG    . MG  YD ? .    ? 214.498 212.324 209.797 1.0 52.41 3011  a 1 
+HETATM 24 O  O     . HOH JE ? .    ? 217.059 210.375 205.411 1.0 42.44 3621  a 1 
+HETATM 25 O  O     . HOH JE ? .    ? 213.452 209.302 211.259 1.0 48.62 4481  a 1 
+HETATM 26 O  O     . HOH JE ? .    ? 212.655 212.524 210.528 1.0 39.15 5165  a 1 
+HETATM 27 O  O     . HOH JE ? .    ? 213.452 216.405 210.845 1.0 41.29 5349  a 1 
+HETATM 28 O  O     . HOH JE ? .    ? 214.765 214.183 211.665 1.0 38.36 5456  a 1 
+HETATM 29 O  O     . HOH JE ? .    ? 217.115 209.142 211.259 1.0 41.94 6857  a 1 
+HETATM 30 O  O     . HOH JE ? .    ? 214.947 211.611 211.438 1.0 41.64 7558  a 1 
+HETATM 31 O  O     . HOH JE ? .    ? 218.441 212.929 211.259 1.0 39.78 7884  a 1 
+HETATM 32 O  O     . HOH JE ? .    ? 210.117 210.916 206.976 1.0 34.98 8253  a 1 
+HETATM 33 O  O     . HOH JE ? .    ? 211.677 207.039 210.082 1.0 23.8  8589  a 1 
+HETATM 34 O  O     . HOH JE ? .    ? 211.093 214.183 209.066 1.0 41.17 9127  a 1 
+HETATM 35 O  O     . HOH JE ? .    ? 214.365 210.017 209.022 1.0 43.13 9597  a 1 
+HETATM 36 O  O     . HOH JE ? .    ? 211.305 209.797 209.576 1.0 35.92 9777  a 1 
+HETATM 37 O  O     . HOH JE ? .    ? 214.320 209.797 204.571 1.0 44.67 10131 a 1 
+#

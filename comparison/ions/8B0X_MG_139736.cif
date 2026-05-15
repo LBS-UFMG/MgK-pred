@@ -1,0 +1,54 @@
+data_8B0X
+#
+loop_
+_atom_site.group_PDB
+_atom_site.id
+_atom_site.type_symbol
+_atom_site.label_atom_id
+_atom_site.label_alt_id
+_atom_site.label_comp_id
+_atom_site.label_asym_id
+_atom_site.label_entity_id
+_atom_site.label_seq_id
+_atom_site.pdbx_PDB_ins_code
+_atom_site.Cartn_x
+_atom_site.Cartn_y
+_atom_site.Cartn_z
+_atom_site.occupancy
+_atom_site.B_iso_or_equiv
+_atom_site.auth_seq_id
+_atom_site.auth_asym_id
+_atom_site.pdbx_PDB_model_num
+ATOM   1  C  C6    . G   WC ? 1858 ? 214.084 211.250 197.799 1.0 23.75 1934  a 1 
+ATOM   2  O  O6    . G   WC ? 1858 ? 213.762 211.278 198.975 1.0 34.28 1934  a 1 
+ATOM   3  C  'C3'' . C   AD ? 1893 ? 209.665 206.175 199.486 1.0 23.38 1971  a 1 
+ATOM   4  O  'O3'' . C   AD ? 1893 ? 210.334 205.901 200.700 1.0 32.96 1971  a 1 
+ATOM   5  P  P     . G   AD ? 1894 ? 211.781 206.512 201.005 1.0 27.58 1972  a 1 
+ATOM   6  O  OP1   . G   AD ? 1894 ? 212.378 205.722 202.085 1.0 27.02 1972  a 1 
+ATOM   7  O  OP2   . G   AD ? 1894 ? 211.647 207.966 201.131 1.0 32.3  1972  a 1 
+ATOM   8  O  'O5'' . G   AD ? 1894 ? 212.613 206.225 199.688 1.0 27.82 1972  a 1 
+ATOM   9  C  'C5'' . G   AD ? 1894 ? 213.142 204.945 199.422 1.0 18.46 1972  a 1 
+ATOM   10 P  P     . A   AD ? 1895 ? 216.884 207.085 199.031 1.0 28.18 1973  a 1 
+ATOM   11 O  OP1   . A   AD ? 1895 ? 217.705 206.623 200.159 1.0 34.43 1973  a 1 
+ATOM   12 O  OP2   . A   AD ? 1895 ? 215.951 208.191 199.252 1.0 26.79 1973  a 1 
+ATOM   13 P  P     . G   VD ? 2415 ? 210.027 204.494 205.411 1.0 23.55 2596  a 1 
+ATOM   14 O  OP1   . G   VD ? 2415 ? 210.955 204.680 204.294 1.0 26.57 2596  a 1 
+ATOM   15 O  'O5'' . G   VD ? 2415 ? 208.763 205.430 205.224 1.0 28.48 2596  a 1 
+ATOM   16 P  P     . U   VD ? 2416 ? 208.083 209.661 204.327 1.0 27.82 2597  a 1 
+ATOM   17 O  OP1   . U   VD ? 2416 ? 208.261 210.528 203.159 1.0 36.62 2597  a 1 
+ATOM   18 O  OP2   . U   VD ? 2416 ? 209.265 209.046 204.924 1.0 30.77 2597  a 1 
+HETATM 19 MG MG    . MG  AE ? .    ? 212.961 208.739 202.960 1.0 52.94 3073  a 1 
+HETATM 20 MG MG    . MG  CE ? .    ? 212.450 203.883 203.218 1.0 33.36 3152  a 1 
+HETATM 21 O  O     . HOH JE ? .    ? 217.059 210.375 205.411 1.0 42.44 3621  a 1 
+HETATM 22 O  O     . HOH JE ? .    ? 212.880 207.003 204.525 1.0 37.47 6941  a 1 
+HETATM 23 O  O     . HOH JE ? .    ? 214.183 209.661 201.269 1.0 36.47 7440  a 1 
+HETATM 24 O  O     . HOH JE ? .    ? 210.763 207.523 206.873 1.0 36.22 7664  a 1 
+HETATM 25 O  O     . HOH JE ? .    ? 215.645 212.467 202.274 1.0 41.74 7782  a 1 
+HETATM 26 O  O     . HOH JE ? .    ? 210.117 210.916 206.976 1.0 34.98 8253  a 1 
+HETATM 27 O  O     . HOH JE ? .    ? 213.899 204.470 204.585 1.0 33.84 8801  a 1 
+HETATM 28 O  O     . HOH JE ? .    ? 217.179 210.436 200.894 1.0 41.82 9270  a 1 
+HETATM 29 O  O     . HOH JE ? .    ? 211.841 212.543 201.025 1.0 46.04 9416  a 1 
+HETATM 30 O  O     . HOH JE ? .    ? 215.483 206.873 206.873 1.0 42.69 9659  a 1 
+HETATM 31 O  O     . HOH JE ? .    ? 218.330 208.335 203.600 1.0 42.95 10083 a 1 
+HETATM 32 O  O     . HOH JE ? .    ? 214.320 209.797 204.571 1.0 44.67 10131 a 1 
+#

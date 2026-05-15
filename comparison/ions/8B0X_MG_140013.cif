@@ -1,0 +1,50 @@
+data_8B0X
+#
+loop_
+_atom_site.group_PDB
+_atom_site.id
+_atom_site.type_symbol
+_atom_site.label_atom_id
+_atom_site.label_alt_id
+_atom_site.label_comp_id
+_atom_site.label_asym_id
+_atom_site.label_entity_id
+_atom_site.label_seq_id
+_atom_site.pdbx_PDB_ins_code
+_atom_site.Cartn_x
+_atom_site.Cartn_y
+_atom_site.Cartn_z
+_atom_site.occupancy
+_atom_site.B_iso_or_equiv
+_atom_site.auth_seq_id
+_atom_site.auth_asym_id
+_atom_site.pdbx_PDB_model_num
+ATOM   1  N  N1    . G   GC ? 488 ? 195.174 150.129 281.352 1.0 30.29 488   a 1 
+ATOM   2  C  C2    . G   GC ? 488 ? 194.676 150.778 280.260 1.0 30.33 488   a 1 
+ATOM   3  N  N2    . G   GC ? 488 ? 195.343 151.851 279.846 1.0 31.66 488   a 1 
+ATOM   4  P  P     . A   GC ? 492 ? 199.244 154.004 278.840 1.0 43.43 492   a 1 
+ATOM   5  O  OP1   . A   GC ? 492 ? 200.542 154.573 279.242 1.0 41.88 492   a 1 
+ATOM   6  O  OP2   . A   GC ? 492 ? 198.343 153.473 279.875 1.0 37.88 492   a 1 
+ATOM   7  O  'O5'' . A   GC ? 492 ? 198.431 155.094 278.020 1.0 39.14 492   a 1 
+ATOM   8  O  OP2   . G   GC ? 493 ? 198.012 158.291 279.750 1.0 38.83 493   a 1 
+ATOM   9  C  C8    . G   GC ? 493 ? 194.419 156.434 279.941 1.0 26.28 493   a 1 
+ATOM   10 N  N7    . G   GC ? 493 ? 194.634 155.387 280.676 1.0 26.89 493   a 1 
+ATOM   11 C  C5    . G   GC ? 493 ? 193.385 154.842 280.873 1.0 23.63 493   a 1 
+ATOM   12 C  C6    . G   GC ? 493 ? 192.983 153.699 281.589 1.0 24.07 493   a 1 
+ATOM   13 O  O6    . G   GC ? 493 ? 193.683 152.916 282.213 1.0 31.06 493   a 1 
+ATOM   14 C  C4    . G   GC ? 493 ? 192.429 155.584 280.242 1.0 25.7  493   a 1 
+ATOM   15 C  C8    . G   GC ? 494 ? 192.118 156.789 283.612 1.0 23.28 494   a 1 
+ATOM   16 N  N7    . G   GC ? 494 ? 192.888 155.955 284.239 1.0 25.52 494   a 1 
+ATOM   17 C  C5    . G   GC ? 494 ? 192.030 155.006 284.739 1.0 21.02 494   a 1 
+ATOM   18 C  C6    . G   GC ? 494 ? 192.296 153.859 285.510 1.0 25.48 494   a 1 
+ATOM   19 O  O6    . G   GC ? 494 ? 193.388 153.468 285.890 1.0 32.28 494   a 1 
+HETATM 20 MG MG    . MG  IE ? .   ? 197.192 154.941 283.711 1.0 51.67 3350  a 1 
+HETATM 21 O  O     . HOH JE ? .   ? 195.738 153.510 283.905 1.0 39.34 5769  a 1 
+HETATM 22 O  O     . HOH JE ? .   ? 196.115 158.596 282.166 1.0 40.1  5793  a 1 
+HETATM 23 O  O     . HOH JE ? .   ? 194.933 154.972 287.923 1.0 41.2  8472  a 1 
+HETATM 24 O  O     . HOH JE ? .   ? 195.800 156.434 283.999 1.0 42.37 8760  a 1 
+HETATM 25 O  O     . HOH JE ? .   ? 197.913 151.288 282.153 1.0 41.72 9412  a 1 
+HETATM 26 O  O     . HOH JE ? .   ? 198.625 153.444 283.810 1.0 45.3  10098 a 1 
+HETATM 27 O  O     . HOH JE ? .   ? 197.370 154.972 285.821 1.0 42.61 10197 a 1 
+HETATM 28 O  O     . HOH JE ? .   ? 198.744 156.433 283.628 1.0 36.81 10230 a 1 
+#

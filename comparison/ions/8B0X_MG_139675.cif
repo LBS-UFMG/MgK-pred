@@ -1,0 +1,51 @@
+data_8B0X
+#
+loop_
+_atom_site.group_PDB
+_atom_site.id
+_atom_site.type_symbol
+_atom_site.label_atom_id
+_atom_site.label_alt_id
+_atom_site.label_comp_id
+_atom_site.label_asym_id
+_atom_site.label_entity_id
+_atom_site.label_seq_id
+_atom_site.pdbx_PDB_ins_code
+_atom_site.Cartn_x
+_atom_site.Cartn_y
+_atom_site.Cartn_z
+_atom_site.occupancy
+_atom_site.B_iso_or_equiv
+_atom_site.auth_seq_id
+_atom_site.auth_asym_id
+_atom_site.pdbx_PDB_model_num
+ATOM   1  C  'C3'' . U   YC ? 1867 ? 197.398 204.447 202.117 1.0 26.15 1944 a 1 
+ATOM   2  O  'O3'' . U   YC ? 1867 ? 196.026 204.778 202.306 1.0 37.48 1944 a 1 
+ATOM   3  C  'C2'' . U   YC ? 1867 ? 197.599 204.019 200.673 1.0 29.29 1944 a 1 
+ATOM   4  O  'O2'' . U   YC ? 1867 ? 196.583 203.188 200.172 1.0 37.89 1944 a 1 
+ATOM   5  P  P     . C   YC ? 1868 ? 195.295 204.594 203.719 1.0 38.89 1945 a 1 
+ATOM   6  O  OP1   . C   YC ? 1868 ? 196.200 203.949 204.680 1.0 39.05 1945 a 1 
+ATOM   7  O  OP2   . C   YC ? 1868 ? 194.000 203.949 203.445 1.0 39.08 1945 a 1 
+ATOM   8  O  'O5'' . C   YC ? 1868 ? 195.032 206.088 204.181 1.0 38.16 1945 a 1 
+ATOM   9  C  'C5'' . C   YC ? 1868 ? 194.596 206.395 205.493 1.0 32.69 1945 a 1 
+ATOM   10 P  P     . C   YC ? 1869 ? 190.521 206.888 204.934 1.0 45.31 1946 a 1 
+ATOM   11 O  OP2   . C   YC ? 1869 ? 191.112 205.664 204.370 1.0 37.6  1946 a 1 
+ATOM   12 C  'C3'' . U   YC ? 1870 ? 188.471 204.216 202.171 1.0 33.15 1947 a 1 
+ATOM   13 O  'O3'' . U   YC ? 1870 ? 188.900 202.894 202.487 1.0 39.93 1947 a 1 
+ATOM   14 C  'C2'' . U   YC ? 1870 ? 189.596 204.937 201.437 1.0 32.09 1947 a 1 
+ATOM   15 O  'O2'' . U   YC ? 1870 ? 190.880 204.680 201.951 1.0 38.7  1947 a 1 
+ATOM   16 C  'C1'' . U   YC ? 1870 ? 189.440 204.380 200.028 1.0 31.76 1947 a 1 
+ATOM   17 O  O2    . U   YC ? 1870 ? 191.777 203.886 198.759 1.0 33.22 1947 a 1 
+ATOM   18 P  P     . U   YC ? 1871 ? 188.029 201.935 203.432 1.0 42.19 1948 a 1 
+ATOM   19 O  OP2   . U   YC ? 1871 ? 188.949 201.399 204.449 1.0 44.55 1948 a 1 
+ATOM   20 O  'O5'' . U   YC ? 1871 ? 187.630 200.724 202.487 1.0 37.43 1948 a 1 
+ATOM   21 C  'C5'' . U   YC ? 1871 ? 188.626 199.947 201.840 1.0 31.84 1948 a 1 
+HETATM 22 MG MG    . MG  YD ? .    ? 193.045 201.870 203.878 1.0 51.31 3012 a 1 
+HETATM 23 O  O     . HOH JE ? .    ? 192.103 201.025 199.733 1.0 45.31 3803 a 1 
+HETATM 24 O  O     . HOH JE ? .    ? 191.392 197.447 202.883 1.0 44.37 4722 a 1 
+HETATM 25 O  O     . HOH JE ? .    ? 191.576 203.010 204.680 1.0 41.26 5538 a 1 
+HETATM 26 O  O     . HOH JE ? .    ? 193.836 203.949 200.536 1.0 35.64 5677 a 1 
+HETATM 27 O  O     . HOH JE ? .    ? 197.370 200.586 201.025 1.0 44.24 7027 a 1 
+HETATM 28 O  O     . HOH JE ? .    ? 193.715 205.286 208.463 1.0 45.92 8687 a 1 
+HETATM 29 O  O     . HOH JE ? .    ? 194.446 200.225 198.997 1.0 42.84 9593 a 1 
+#

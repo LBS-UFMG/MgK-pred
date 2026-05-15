@@ -1,0 +1,51 @@
+data_8B0X
+#
+loop_
+_atom_site.group_PDB
+_atom_site.id
+_atom_site.type_symbol
+_atom_site.label_atom_id
+_atom_site.label_alt_id
+_atom_site.label_comp_id
+_atom_site.label_asym_id
+_atom_site.label_entity_id
+_atom_site.label_seq_id
+_atom_site.pdbx_PDB_ins_code
+_atom_site.Cartn_x
+_atom_site.Cartn_y
+_atom_site.Cartn_z
+_atom_site.occupancy
+_atom_site.B_iso_or_equiv
+_atom_site.auth_seq_id
+_atom_site.auth_asym_id
+_atom_site.pdbx_PDB_model_num
+ATOM   1  C  'C4'' . U   J  ? 160 ? 174.052 114.240 147.627 1.0 74.13 173  A 1 
+ATOM   2  C  'C3'' . U   J  ? 160 ? 173.383 115.415 148.326 1.0 74.65 173  A 1 
+ATOM   3  O  'O3'' . U   J  ? 160 ? 174.400 116.229 148.902 1.0 75.23 173  A 1 
+ATOM   4  P  P     . A   J  ? 161 ? 174.909 115.967 150.396 1.0 73.16 174  A 1 
+ATOM   5  O  OP1   . A   J  ? 161 ? 176.327 116.373 150.505 1.0 71.86 174  A 1 
+ATOM   6  O  OP2   . A   J  ? 161 ? 174.572 114.577 150.757 1.0 74.32 174  A 1 
+ATOM   7  O  'O5'' . A   J  ? 161 ? 174.009 116.948 151.263 1.0 73.72 174  A 1 
+ATOM   8  C  'C5'' . A   J  ? 161 ? 174.221 118.350 151.252 1.0 71.34 174  A 1 
+ATOM   9  C  'C4'' . A   J  ? 161 ? 174.076 118.909 152.639 1.0 69.73 174  A 1 
+ATOM   10 C  'C3'' . A   J  ? 161 ? 174.989 118.272 153.675 1.0 69.57 174  A 1 
+ATOM   11 O  'O3'' . A   J  ? 161 ? 176.264 118.886 153.726 1.0 71.78 174  A 1 
+ATOM   12 C  'C2'' . A   J  ? 161 ? 174.188 118.400 154.962 1.0 72.1  174  A 1 
+ATOM   13 P  P     . C   J  ? 162 ? 177.593 118.015 153.949 1.0 75.71 175  A 1 
+ATOM   14 O  OP1   . C   J  ? 162 ? 178.753 118.921 154.047 1.0 73.54 175  A 1 
+ATOM   15 O  OP2   . C   J  ? 162 ? 177.611 116.919 152.961 1.0 76.88 175  A 1 
+ATOM   16 O  'O5'' . C   J  ? 162 ? 177.400 117.368 155.383 1.0 75.81 175  A 1 
+ATOM   17 C  'C5'' . C   J  ? 162 ? 177.254 118.172 156.540 1.0 72.41 175  A 1 
+ATOM   18 C  C5    . C   J  ? 162 ? 175.095 113.845 154.884 1.0 75.19 175  A 1 
+ATOM   19 C  C6    . C   J  ? 162 ? 175.413 114.735 155.830 1.0 73.27 175  A 1 
+ATOM   20 O  OP2   . C   J  ? 163 ? 180.481 115.494 156.637 1.0 78.64 176  A 1 
+ATOM   21 O  'O3'' . A   J  ? 183 ? 180.358 111.770 148.966 1.0 81.64 196  A 1 
+ATOM   22 P  P     . A   J  ? 184 ? 179.095 111.044 149.627 1.0 82.67 197  A 1 
+ATOM   23 O  OP1   . A   J  ? 184 ? 178.649 111.870 150.768 1.0 80.52 197  A 1 
+ATOM   24 O  'O5'' . A   J  ? 184 ? 177.984 111.165 148.497 1.0 78.3  197  A 1 
+ATOM   25 C  C8    . A   J  ? 184 ? 177.499 114.005 146.444 1.0 77.59 197  A 1 
+ATOM   26 N  N7    . A   J  ? 184 ? 177.637 115.271 146.155 1.0 78.71 197  A 1 
+HETATM 27 MG MG    . MG  EA ? .   ? 178.282 116.197 151.300 1.0 66.95 1626 A 1 
+HETATM 28 O  O     . HOH JA ? .   ? 174.349 112.189 151.355 1.0 75.76 2007 A 1 
+HETATM 29 O  O     . HOH JA ? .   ? 176.321 111.112 151.886 1.0 80.3  2721 A 1 
+#

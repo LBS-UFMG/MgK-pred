@@ -1,0 +1,57 @@
+data_8B0X
+#
+loop_
+_atom_site.group_PDB
+_atom_site.id
+_atom_site.type_symbol
+_atom_site.label_atom_id
+_atom_site.label_alt_id
+_atom_site.label_comp_id
+_atom_site.label_asym_id
+_atom_site.label_entity_id
+_atom_site.label_seq_id
+_atom_site.pdbx_PDB_ins_code
+_atom_site.Cartn_x
+_atom_site.Cartn_y
+_atom_site.Cartn_z
+_atom_site.occupancy
+_atom_site.B_iso_or_equiv
+_atom_site.auth_seq_id
+_atom_site.auth_asym_id
+_atom_site.pdbx_PDB_model_num
+ATOM   1  P  P     . G   OC ? 1600 ? 178.800 166.735 199.913 1.0 27.25 1669 a 1 
+ATOM   2  O  OP1   . G   OC ? 1600 ? 178.865 167.399 198.608 1.0 24.15 1669 a 1 
+ATOM   3  O  OP2   . G   OC ? 1600 ? 179.269 165.358 200.048 1.0 30.19 1669 a 1 
+ATOM   4  O  'O5'' . G   OC ? 1600 ? 179.666 167.604 200.912 1.0 31.56 1669 a 1 
+ATOM   5  C  'C3'' . G   OC ? 1600 ? 181.794 169.436 201.839 1.0 13.93 1669 a 1 
+ATOM   6  C  'C2'' . G   OC ? 1600 ? 182.223 168.094 202.402 1.0 14.26 1669 a 1 
+ATOM   7  O  'O2'' . G   OC ? 1600 ? 183.598 167.975 202.653 1.0 23.56 1669 a 1 
+ATOM   8  C  'C1'' . G   OC ? 1600 ? 181.398 168.015 203.680 1.0 16.09 1669 a 1 
+ATOM   9  N  N9    . G   OC ? 1600 ? 181.166 166.629 204.096 1.0 18.89 1669 a 1 
+ATOM   10 C  C8    . G   OC ? 1600 ? 180.690 165.606 203.316 1.0 16.3  1669 a 1 
+ATOM   11 N  N7    . G   OC ? 1600 ? 180.640 164.475 203.949 1.0 23.57 1669 a 1 
+ATOM   12 P  P     . G   AD ? 1915 ? 188.044 166.391 196.496 1.0 39.35 1993 a 1 
+ATOM   13 O  OP1   . G   AD ? 1915 ? 187.213 165.363 195.848 1.0 41.64 1993 a 1 
+ATOM   14 O  OP2   . G   AD ? 1915 ? 187.385 167.478 197.236 1.0 38.57 1993 a 1 
+ATOM   15 O  'O5'' . G   AD ? 1915 ? 189.000 165.647 197.521 1.0 38.18 1993 a 1 
+ATOM   16 P  P     . C   AD ? 1916 ? 188.117 162.282 200.441 1.0 36.02 1994 a 1 
+ATOM   17 O  OP1   . C   AD ? 1916 ? 187.783 160.856 200.340 1.0 38.6  1994 a 1 
+ATOM   18 O  OP2   . C   AD ? 1916 ? 187.148 163.284 199.972 1.0 37.61 1994 a 1 
+ATOM   19 O  'O5'' . C   AD ? 1916 ? 188.427 162.636 201.963 1.0 36.37 1994 a 1 
+ATOM   20 C  C4    . C   AD ? 1916 ? 187.784 168.058 203.143 1.0 19.84 1994 a 1 
+ATOM   21 N  N4    . C   AD ? 1916 ? 187.112 169.120 202.725 1.0 18.22 1994 a 1 
+ATOM   22 C  C5    . C   AD ? 1916 ? 187.788 166.849 202.402 1.0 17.69 1994 a 1 
+ATOM   23 C  C6    . C   AD ? 1916 ? 188.487 165.824 202.880 1.0 14.89 1994 a 1 
+ATOM   24 C  C5    . U   AD ? 1917 ? 184.996 166.411 205.360 1.0 14.73 1995 a 1 
+HETATM 25 MG MG    . MG  EE ? .    ? 184.114 165.307 199.556 1.0 45.28 3182 a 1 
+HETATM 26 O  O     . HOH JE ? .    ? 184.719 163.353 203.371 1.0 41.81 3549 a 1 
+HETATM 27 O  O     . HOH JE ? .    ? 185.291 169.398 200.294 1.0 30.66 4135 a 1 
+HETATM 28 O  O     . HOH JE ? .    ? 184.454 163.372 199.487 1.0 40.8  5963 a 1 
+HETATM 29 O  O     . HOH JE ? .    ? 181.304 168.654 198.102 1.0 35.44 6760 a 1 
+HETATM 30 O  O     . HOH JE ? .    ? 182.019 165.066 199.411 1.0 41.9  7432 a 1 
+HETATM 31 O  O     . HOH JE ? .    ? 184.209 165.366 201.679 1.0 33.2  7627 a 1 
+HETATM 32 O  O     . HOH JE ? .    ? 186.139 165.908 199.390 1.0 39.79 7886 a 1 
+HETATM 33 O  O     . HOH JE ? .    ? 183.481 167.399 199.384 1.0 33.29 9812 a 1 
+HETATM 34 O  O     . HOH JE ? .    ? 183.937 165.446 197.370 1.0 41.38 9983 a 1 
+HETATM 35 O  O     . HOH MF ? .    ? 182.750 167.540 195.908 1.0 46.08 255  j 1 
+#

@@ -1,0 +1,45 @@
+data_8B0X
+#
+loop_
+_atom_site.group_PDB
+_atom_site.id
+_atom_site.type_symbol
+_atom_site.label_atom_id
+_atom_site.label_alt_id
+_atom_site.label_comp_id
+_atom_site.label_asym_id
+_atom_site.label_entity_id
+_atom_site.label_seq_id
+_atom_site.pdbx_PDB_ins_code
+_atom_site.Cartn_x
+_atom_site.Cartn_y
+_atom_site.Cartn_z
+_atom_site.occupancy
+_atom_site.B_iso_or_equiv
+_atom_site.auth_seq_id
+_atom_site.auth_asym_id
+_atom_site.pdbx_PDB_model_num
+ATOM   1  P  P     . A   XD ? 2555 ? 139.826 178.763 215.561 1.0 53.36 2738 a 1 
+ATOM   2  O  OP1   . A   XD ? 2555 ? 139.725 179.876 214.602 1.0 43.59 2738 a 1 
+ATOM   3  O  OP2   . A   XD ? 2555 ? 140.002 179.078 216.991 1.0 45.54 2738 a 1 
+ATOM   4  O  'O5'' . A   XD ? 2555 ? 138.533 177.848 215.424 1.0 48.73 2738 a 1 
+ATOM   5  P  P     . G   XD ? 2556 ? 134.303 178.699 214.626 1.0 60.35 2739 a 1 
+ATOM   6  O  OP2   . G   XD ? 2556 ? 135.370 179.646 215.003 1.0 48.73 2739 a 1 
+ATOM   7  C  C8    . G   XD ? 2556 ? 135.121 177.942 219.041 1.0 36.14 2739 a 1 
+ATOM   8  N  N7    . G   XD ? 2556 ? 136.013 178.587 219.722 1.0 35.91 2739 a 1 
+ATOM   9  C  C5    . G   XD ? 2556 ? 135.636 178.419 221.038 1.0 32.68 2739 a 1 
+ATOM   10 C  C6    . G   XD ? 2556 ? 136.230 178.902 222.224 1.0 34.21 2739 a 1 
+ATOM   11 O  O6    . G   XD ? 2556 ? 137.242 179.588 222.340 1.0 40.93 2739 a 1 
+ATOM   12 C  C8    . A   XD ? 2557 ? 133.167 180.838 221.663 1.0 31.07 2740 a 1 
+ATOM   13 N  N7    . A   XD ? 2557 ? 134.298 181.476 221.543 1.0 35.61 2740 a 1 
+ATOM   14 C  C5    . A   XD ? 2557 ? 134.606 181.868 222.832 1.0 29.64 2740 a 1 
+ATOM   15 C  C6    . A   XD ? 2557 ? 135.678 182.580 223.383 1.0 29.82 2740 a 1 
+ATOM   16 N  N6    . A   XD ? 2557 ? 136.697 183.050 222.681 1.0 31.83 2740 a 1 
+ATOM   17 P  P     . A   XD ? 2586 ? 139.621 185.945 215.645 1.0 41.7  2769 a 1 
+ATOM   18 O  OP1   . A   XD ? 2586 ? 139.131 184.860 214.781 1.0 36.9  2769 a 1 
+ATOM   19 O  OP2   . A   XD ? 2586 ? 138.979 186.176 216.949 1.0 37.79 2769 a 1 
+ATOM   20 O  'O5'' . A   XD ? 2586 ? 141.169 185.674 215.862 1.0 38.65 2769 a 1 
+HETATM 21 MG MG    . MG  YD ? .    ? 137.428 182.296 218.252 1.0 61.33 3026 a 1 
+HETATM 22 O  O     . HOH JE ? .    ? 139.680 185.301 219.980 1.0 44.19 3557 a 1 
+HETATM 23 O  O     . HOH JE ? .    ? 139.621 181.088 221.197 1.0 44.89 7861 a 1 
+#

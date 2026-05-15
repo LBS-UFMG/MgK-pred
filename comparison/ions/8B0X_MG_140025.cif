@@ -1,0 +1,46 @@
+data_8B0X
+#
+loop_
+_atom_site.group_PDB
+_atom_site.id
+_atom_site.type_symbol
+_atom_site.label_atom_id
+_atom_site.label_alt_id
+_atom_site.label_comp_id
+_atom_site.label_asym_id
+_atom_site.label_entity_id
+_atom_site.label_seq_id
+_atom_site.pdbx_PDB_ins_code
+_atom_site.Cartn_x
+_atom_site.Cartn_y
+_atom_site.Cartn_z
+_atom_site.occupancy
+_atom_site.B_iso_or_equiv
+_atom_site.auth_seq_id
+_atom_site.auth_asym_id
+_atom_site.pdbx_PDB_model_num
+ATOM   1  C  C4  . C   MC ? 1099 ? 156.289 220.943 285.088 1.0 26.95 1163  a 1 
+ATOM   2  N  N4  . C   MC ? 1099 ? 157.138 221.219 284.109 1.0 30.65 1163  a 1 
+ATOM   3  C  C5  . C   MC ? 1099 ? 155.529 221.978 285.690 1.0 25.06 1163  a 1 
+ATOM   4  C  C6  . C   MC ? 1099 ? 154.693 221.636 286.665 1.0 20.93 1163  a 1 
+ATOM   5  O  OP2 . G   MC ? 1100 ? 155.967 223.316 291.068 1.0 36.07 1164  a 1 
+ATOM   6  C  C8  . G   MC ? 1100 ? 158.153 220.252 288.651 1.0 21.44 1164  a 1 
+ATOM   7  N  N7  . G   MC ? 1100 ? 158.627 220.790 287.568 1.0 26.68 1164  a 1 
+ATOM   8  C  C5  . G   MC ? 1100 ? 159.576 219.900 287.097 1.0 22.17 1164  a 1 
+ATOM   9  C  C6  . G   MC ? 1100 ? 160.432 219.924 285.967 1.0 22.24 1164  a 1 
+ATOM   10 O  O6  . G   MC ? 1100 ? 160.538 220.772 285.095 1.0 28.36 1164  a 1 
+ATOM   11 C  C8  . G   MC ? 1101 ? 162.613 220.547 288.965 1.0 20.61 1165  a 1 
+ATOM   12 N  N7  . G   MC ? 1101 ? 162.529 221.467 288.052 1.0 27.14 1165  a 1 
+ATOM   13 C  C5  . G   MC ? 1101 ? 163.512 221.140 287.140 1.0 21.4  1165  a 1 
+ATOM   14 C  C6  . G   MC ? 1101 ? 163.900 221.765 285.938 1.0 19.7  1165  a 1 
+ATOM   15 O  O6  . G   MC ? 1101 ? 163.437 222.771 285.425 1.0 29.11 1165  a 1 
+HETATM 16 MG MG  . MG  IE ? .    ? 159.547 224.936 286.558 1.0 52.92 3362  a 1 
+HETATM 17 O  O   . HOH JE ? .    ? 156.144 224.417 288.745 1.0 36.43 4014  a 1 
+HETATM 18 O  O   . HOH JE ? .    ? 159.247 223.122 290.825 1.0 38.52 5175  a 1 
+HETATM 19 O  O   . HOH JE ? .    ? 158.241 223.457 286.959 1.0 32.72 6326  a 1 
+HETATM 20 O  O   . HOH JE ? .    ? 155.290 225.613 285.123 1.0 37.92 6329  a 1 
+HETATM 21 O  O   . HOH JE ? .    ? 160.772 223.557 285.364 1.0 35.66 6574  a 1 
+HETATM 22 O  O   . HOH JE ? .    ? 160.820 223.686 288.436 1.0 36.2  7290  a 1 
+HETATM 23 O  O   . HOH JE ? .    ? 157.896 224.044 283.628 1.0 44.54 8785  a 1 
+HETATM 24 O  O   . HOH JE ? .    ? 158.627 225.904 288.431 1.0 46.53 10263 a 1 
+#

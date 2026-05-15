@@ -1,0 +1,54 @@
+data_9Q87
+#
+loop_
+_atom_site.group_PDB
+_atom_site.id
+_atom_site.type_symbol
+_atom_site.label_atom_id
+_atom_site.label_alt_id
+_atom_site.label_comp_id
+_atom_site.label_asym_id
+_atom_site.label_entity_id
+_atom_site.label_seq_id
+_atom_site.pdbx_PDB_ins_code
+_atom_site.Cartn_x
+_atom_site.Cartn_y
+_atom_site.Cartn_z
+_atom_site.occupancy
+_atom_site.B_iso_or_equiv
+_atom_site.auth_seq_id
+_atom_site.auth_asym_id
+_atom_site.pdbx_PDB_model_num
+ATOM   1  P  P     . G   A  ? 515 ? 175.247 221.028 127.138 1.0 85.87545  515  A 1 
+ATOM   2  O  OP1   . G   A  ? 515 ? 174.387 222.195 127.436 1.0 82.65595  515  A 1 
+ATOM   3  O  OP2   . G   A  ? 515 ? 176.712 221.214 127.026 1.0 75.99388  515  A 1 
+ATOM   4  O  'O5'' . G   A  ? 515 ? 174.966 219.925 128.252 1.0 83.42694  515  A 1 
+HETATM 5  N  N1    . PSU B  ? .   ? 179.102 218.441 131.221 1.0 68.38018  516  A 1 
+HETATM 6  C  C2    . PSU B  ? .   ? 180.432 218.138 131.148 1.0 70.04467  516  A 1 
+HETATM 7  C  C6    . PSU B  ? .   ? 178.344 218.195 132.319 1.0 65.22936  516  A 1 
+HETATM 8  O  O2    . PSU B  ? .   ? 181.103 218.366 130.151 1.0 75.73233  516  A 1 
+HETATM 9  P  P     . PSU B  ? .   ? 174.592 220.727 132.755 1.0 84.60439  516  A 1 
+HETATM 10 O  OP2   . PSU B  ? .   ? 175.465 221.524 131.810 1.0 87.76082  516  A 1 
+ATOM   11 C  C8    . G   C  ? 516 ? 180.049 221.279 135.235 1.0 72.20313  517  A 1 
+ATOM   12 N  N7    . G   C  ? 516 ? 179.812 221.503 133.975 1.0 72.94333  517  A 1 
+ATOM   13 C  C5    . G   C  ? 516 ? 181.010 221.217 133.342 1.0 69.30956  517  A 1 
+ATOM   14 C  C6    . G   C  ? 516 ? 181.366 221.279 131.973 1.0 71.7694   517  A 1 
+ATOM   15 O  O6    . G   C  ? 516 ? 180.666 221.600 131.010 1.0 75.59602  517  A 1 
+ATOM   16 N  N1    . G   C  ? 516 ? 182.685 220.897 131.768 1.0 72.62092  517  A 1 
+ATOM   17 C  C4    . G   C  ? 516 ? 181.958 220.817 134.254 1.0 71.24542  517  A 1 
+ATOM   18 O  'O4'' . U   E  ? 529 ? 183.754 223.837 133.012 1.0 85.45005  531  A 1 
+ATOM   19 C  'C1'' . U   E  ? 529 ? 183.080 225.068 132.847 1.0 79.72877  531  A 1 
+ATOM   20 N  N1    . U   E  ? 529 ? 181.910 225.088 133.732 1.0 79.50611  531  A 1 
+ATOM   21 C  C2    . U   E  ? 529 ? 180.672 225.123 133.126 1.0 80.49588  531  A 1 
+ATOM   22 O  O2    . U   E  ? 529 ? 180.536 225.118 131.917 1.0 76.06327  531  A 1 
+ATOM   23 N  N3    . U   E  ? 529 ? 179.607 225.148 133.987 1.0 81.12951  531  A 1 
+ATOM   24 C  C4    . U   E  ? 529 ? 179.661 225.151 135.364 1.0 82.53079  531  A 1 
+ATOM   25 O  OP1   . A   E  ? 531 ? 183.469 220.316 128.675 1.0 79.23629  533  A 1 
+HETATM 26 K  K     . K   GA ? .   ? 178.832 223.685 130.118 1.0 106.81975 1645 A 1 
+HETATM 27 MG MG    . MG  NA ? .   ? 181.961 218.935 128.356 1.0 77.96879  1718 A 1 
+HETATM 28 O  O     . HOH BB ? .   ? 181.100 220.817 128.368 1.0 78.36729  1809 A 1 
+HETATM 29 O  O     . HOH BB ? .   ? 177.773 222.995 132.545 1.0 80.78975  3383 A 1 
+HETATM 30 O  O     . HOH BB ? .   ? 175.636 223.608 129.891 1.0 75.2958   3452 A 1 
+HETATM 31 O  O     . HOH BB ? .   ? 180.087 218.891 127.479 1.0 67.72395  4310 A 1 
+HETATM 32 O  O     . HOH BB ? .   ? 177.633 220.762 129.931 1.0 80.26953  4801 A 1 
+#

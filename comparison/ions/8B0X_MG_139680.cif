@@ -1,0 +1,51 @@
+data_8B0X
+#
+loop_
+_atom_site.group_PDB
+_atom_site.id
+_atom_site.type_symbol
+_atom_site.label_atom_id
+_atom_site.label_alt_id
+_atom_site.label_comp_id
+_atom_site.label_asym_id
+_atom_site.label_entity_id
+_atom_site.label_seq_id
+_atom_site.pdbx_PDB_ins_code
+_atom_site.Cartn_x
+_atom_site.Cartn_y
+_atom_site.Cartn_z
+_atom_site.occupancy
+_atom_site.B_iso_or_equiv
+_atom_site.auth_seq_id
+_atom_site.auth_asym_id
+_atom_site.pdbx_PDB_model_num
+ATOM   1  P  P     . G   GD ? 2120 ? 200.640 273.796 229.534 1.0 34.71 2293 a 1 
+ATOM   2  O  OP1   . G   GD ? 2120 ? 199.345 273.185 229.842 1.0 38.13 2293 a 1 
+ATOM   3  O  OP2   . G   GD ? 2120 ? 200.669 275.173 229.015 1.0 39.0  2293 a 1 
+ATOM   4  O  'O5'' . G   GD ? 2120 ? 201.538 273.769 230.841 1.0 37.93 2293 a 1 
+ATOM   5  P  P     . G   GD ? 2121 ? 200.041 275.386 234.704 1.0 35.58 2294 a 1 
+ATOM   6  O  OP1   . G   GD ? 2121 ? 198.973 274.986 235.629 1.0 37.01 2294 a 1 
+ATOM   7  O  OP2   . G   GD ? 2121 ? 199.686 275.895 233.373 1.0 41.3  2294 a 1 
+ATOM   8  O  OP2   . A   GD ? 2167 ? 191.357 278.651 231.852 1.0 41.23 2340 a 1 
+ATOM   9  O  'O5'' . A   GD ? 2167 ? 190.810 276.325 232.458 1.0 43.39 2340 a 1 
+ATOM   10 C  'C5'' . A   GD ? 2167 ? 192.055 275.647 232.417 1.0 30.94 2340 a 1 
+ATOM   11 C  'C4'' . A   GD ? 2167 ? 191.873 274.279 231.822 1.0 30.45 2340 a 1 
+ATOM   12 C  'C3'' . A   GD ? 2167 ? 191.043 274.258 230.549 1.0 29.4  2340 a 1 
+ATOM   13 P  P     . G   GD ? 2168 ? 192.661 273.509 228.632 1.0 39.27 2341 a 1 
+ATOM   14 O  OP1   . G   GD ? 2168 ? 193.467 272.296 228.449 1.0 41.89 2341 a 1 
+ATOM   15 O  OP2   . G   GD ? 2168 ? 193.312 274.779 228.972 1.0 42.7  2341 a 1 
+ATOM   16 O  'O3'' . U   GD ? 2215 ? 197.750 271.120 232.514 1.0 35.2  2388 a 1 
+ATOM   17 P  P     . C   GD ? 2216 ? 196.315 271.712 232.131 1.0 34.6  2389 a 1 
+ATOM   18 O  OP1   . C   GD ? 2216 ? 196.438 272.215 230.753 1.0 41.07 2389 a 1 
+ATOM   19 O  OP2   . C   GD ? 2216 ? 195.853 272.615 233.189 1.0 34.44 2389 a 1 
+HETATM 20 MG MG    . MG  YD ? .    ? 196.506 276.455 230.996 1.0 49.35 3017 a 1 
+HETATM 21 MG MG    . MG  EE ? .    ? 197.661 271.932 229.334 1.0 45.52 3187 a 1 
+HETATM 22 O  O     . HOH JE ? .    ? 198.055 274.930 231.654 1.0 37.8  3913 a 1 
+HETATM 23 O  O     . HOH JE ? .    ? 198.296 278.155 233.920 1.0 44.81 5099 a 1 
+HETATM 24 O  O     . HOH JE ? .    ? 198.832 279.150 230.294 1.0 43.24 6237 a 1 
+HETATM 25 O  O     . HOH JE ? .    ? 200.725 277.049 231.041 1.0 42.46 6314 a 1 
+HETATM 26 O  O     . HOH JE ? .    ? 196.733 281.435 232.118 1.0 46.86 8149 a 1 
+HETATM 27 O  O     . HOH JE ? .    ? 196.956 273.394 228.153 1.0 36.51 8233 a 1 
+HETATM 28 O  O     . HOH JE ? .    ? 192.421 277.780 228.991 1.0 39.29 9532 a 1 
+HETATM 29 O  O     . HOH JE ? .    ? 197.646 276.318 228.803 1.0 47.13 9728 a 1 
+#

@@ -1,0 +1,54 @@
+data_8B0X
+#
+loop_
+_atom_site.group_PDB
+_atom_site.id
+_atom_site.type_symbol
+_atom_site.label_atom_id
+_atom_site.label_alt_id
+_atom_site.label_comp_id
+_atom_site.label_asym_id
+_atom_site.label_entity_id
+_atom_site.label_seq_id
+_atom_site.pdbx_PDB_ins_code
+_atom_site.Cartn_x
+_atom_site.Cartn_y
+_atom_site.Cartn_z
+_atom_site.occupancy
+_atom_site.B_iso_or_equiv
+_atom_site.auth_seq_id
+_atom_site.auth_asym_id
+_atom_site.pdbx_PDB_model_num
+ATOM   1  O  OP1   . A   RD ? 2367 ? 147.062 193.754 223.181 1.0 31.21 2546  a 1 
+ATOM   2  C  'C5'' . A   RD ? 2367 ? 148.468 192.253 221.001 1.0 22.88 2546  a 1 
+ATOM   3  C  'C4'' . A   RD ? 2367 ? 149.796 191.571 221.202 1.0 21.46 2546  a 1 
+ATOM   4  C  'C3'' . A   RD ? 2367 ? 150.400 191.721 222.593 1.0 20.58 2546  a 1 
+ATOM   5  O  'O3'' . A   RD ? 2367 ? 151.203 190.575 222.876 1.0 29.49 2546  a 1 
+ATOM   6  C  'C2'' . A   RD ? 2367 ? 151.317 192.922 222.417 1.0 23.45 2546  a 1 
+ATOM   7  O  'O2'' . A   RD ? 2367 ? 152.355 192.996 223.364 1.0 31.1  2546  a 1 
+ATOM   8  P  P     . G   RD ? 2368 ? 150.714 189.443 223.897 1.0 30.49 2547  a 1 
+ATOM   9  O  OP1   . G   RD ? 2368 ? 149.855 190.060 224.917 1.0 29.61 2547  a 1 
+ATOM   10 O  OP2   . G   RD ? 2368 ? 151.920 188.724 224.333 1.0 31.91 2547  a 1 
+ATOM   11 O  'O5'' . G   RD ? 2368 ? 149.855 188.443 223.010 1.0 30.32 2547  a 1 
+ATOM   12 C  'C5'' . G   RD ? 2368 ? 149.241 187.301 223.587 1.0 20.97 2547  a 1 
+ATOM   13 C  'C3'' . A   XD ? 2587 ? 145.152 189.069 223.141 1.0 22.51 2770  a 1 
+ATOM   14 O  'O3'' . A   XD ? 2587 ? 145.965 188.599 224.198 1.0 38.27 2770  a 1 
+ATOM   15 C  'C2'' . A   XD ? 2587 ? 144.972 190.577 223.151 1.0 21.9  2770  a 1 
+ATOM   16 O  'O2'' . A   XD ? 2587 ? 146.200 191.217 223.449 1.0 33.8  2770  a 1 
+ATOM   17 P  P     . C   XD ? 2588 ? 145.469 187.433 225.173 1.0 39.74 2771  a 1 
+ATOM   18 O  OP1   . C   XD ? 2588 ? 146.564 187.136 226.107 1.0 38.15 2771  a 1 
+ATOM   19 O  'O5'' . C   XD ? 2588 ? 144.291 188.094 225.999 1.0 30.3  2771  a 1 
+ATOM   20 C  'C5'' . C   XD ? 2588 ? 144.516 189.174 226.886 1.0 23.41 2771  a 1 
+HETATM 21 MG MG    . MG  CE ? .    ? 149.408 190.682 226.656 1.0 41.67 3154  a 1 
+HETATM 22 O  O     . HOH JE ? .    ? 147.662 190.962 225.879 1.0 35.98 3915  a 1 
+HETATM 23 O  O     . HOH JE ? .    ? 153.448 191.522 225.879 1.0 43.04 4747  a 1 
+HETATM 24 O  O     . HOH JE ? .    ? 146.200 186.359 228.793 1.0 40.61 4755  a 1 
+HETATM 25 O  O     . HOH JE ? .    ? 151.317 190.162 227.341 1.0 39.01 7367  a 1 
+HETATM 26 O  O     . HOH JE ? .    ? 148.751 188.598 227.269 1.0 35.6  7937  a 1 
+HETATM 27 O  O     . HOH JE ? .    ? 150.027 192.614 226.344 1.0 36.23 8501  a 1 
+HETATM 28 O  O     . HOH JE ? .    ? 148.779 190.979 228.803 1.0 45.16 10151 a 1 
+HETATM 29 O  O     . HOH JE ? .    ? 145.609 192.784 227.338 1.0 38.6  10191 a 1 
+HETATM 30 O  O     . HOH KF ? .    ? 147.085 192.260 231.769 1.0 40.96 218   i 1 
+HETATM 31 O  O     . HOH KF ? .    ? 152.647 190.791 229.840 1.0 41.08 232   i 1 
+HETATM 32 O  O     . HOH KF ? .    ? 149.675 189.224 231.111 1.0 43.13 235   i 1 
+#

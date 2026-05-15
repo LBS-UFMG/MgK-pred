@@ -1,0 +1,57 @@
+data_8B0X
+#
+loop_
+_atom_site.group_PDB
+_atom_site.id
+_atom_site.type_symbol
+_atom_site.label_atom_id
+_atom_site.label_alt_id
+_atom_site.label_comp_id
+_atom_site.label_asym_id
+_atom_site.label_entity_id
+_atom_site.label_seq_id
+_atom_site.pdbx_PDB_ins_code
+_atom_site.Cartn_x
+_atom_site.Cartn_y
+_atom_site.Cartn_z
+_atom_site.occupancy
+_atom_site.B_iso_or_equiv
+_atom_site.auth_seq_id
+_atom_site.auth_asym_id
+_atom_site.pdbx_PDB_model_num
+ATOM   1  P  P     . A   S  ? 1216 ? 205.665 274.819 121.150 1.0 83.16 1254 A 1 
+ATOM   2  O  OP2   . A   S  ? 1216 ? 206.426 275.761 120.302 1.0 78.51 1254 A 1 
+ATOM   3  O  'O5'' . A   S  ? 1216 ? 204.364 275.541 121.705 1.0 76.39 1254 A 1 
+ATOM   4  N  N9    . A   S  ? 1216 ? 203.354 279.043 123.129 1.0 75.74 1254 A 1 
+ATOM   5  C  C8    . A   S  ? 1216 ? 204.570 278.798 122.552 1.0 77.48 1254 A 1 
+ATOM   6  N  N7    . A   S  ? 1216 ? 205.155 279.865 122.077 1.0 79.2  1254 A 1 
+ATOM   7  C  C5    . A   S  ? 1216 ? 204.262 280.879 122.372 1.0 78.09 1254 A 1 
+ATOM   8  C  C6    . A   S  ? 1216 ? 204.297 282.255 122.126 1.0 75.73 1254 A 1 
+ATOM   9  N  N6    . A   S  ? 1216 ? 205.303 282.865 121.509 1.0 76.4  1254 A 1 
+ATOM   10 C  C4    . A   S  ? 1216 ? 203.150 280.390 123.022 1.0 77.18 1254 A 1 
+ATOM   11 C  C8    . G   S  ? 1217 ? 200.783 280.438 120.180 1.0 83.11 1255 A 1 
+ATOM   12 N  N7    . G   S  ? 1217 ? 201.798 281.061 119.661 1.0 82.58 1255 A 1 
+ATOM   13 C  C5    . G   S  ? 1217 ? 201.469 282.400 119.764 1.0 82.72 1255 A 1 
+ATOM   14 O  O6    . G   S  ? 1217 ? 203.289 283.617 118.826 1.0 84.23 1255 A 1 
+ATOM   15 N  N9    . G   S  ? 1241 ? 203.533 283.426 115.397 1.0 84.93 1279 A 1 
+ATOM   16 C  C8    . G   S  ? 1241 ? 204.207 282.234 115.339 1.0 85.84 1279 A 1 
+ATOM   17 N  N7    . G   S  ? 1241 ? 203.479 281.215 115.679 1.0 85.95 1279 A 1 
+ATOM   18 C  C5    . G   S  ? 1241 ? 202.249 281.764 115.974 1.0 85.83 1279 A 1 
+ATOM   19 C  C6    . G   S  ? 1241 ? 201.065 281.134 116.407 1.0 88.1  1279 A 1 
+ATOM   20 O  O6    . G   S  ? 1241 ? 200.873 279.936 116.624 1.0 89.45 1279 A 1 
+ATOM   21 C  C4    . G   S  ? 1241 ? 202.259 283.125 115.800 1.0 85.31 1279 A 1 
+HETATM 22 MG MG    . MG  GA ? .    ? 206.210 279.241 118.070 1.0 76.98 1694 A 1 
+HETATM 23 O  O     . HOH JA ? .    ? 206.961 279.973 119.693 1.0 80.75 4080 A 1 
+HETATM 24 O  O     . HOH JA ? .    ? 204.332 280.027 118.422 1.0 81.85 4113 A 1 
+ATOM   25 N  N     . ARG AB ? 41   ? 210.409 274.856 114.058 1.0 74.12 45   J 1 
+ATOM   26 C  CA    . ARG AB ? 41   ? 209.619 274.567 115.242 1.0 74.19 45   J 1 
+ATOM   27 C  C     . ARG AB ? 41   ? 209.719 273.086 115.578 1.0 76.86 45   J 1 
+ATOM   28 O  O     . ARG AB ? 41   ? 209.736 272.237 114.686 1.0 78.76 45   J 1 
+ATOM   29 C  CB    . ARG AB ? 41   ? 208.160 274.955 115.029 1.0 72.3  45   J 1 
+ATOM   30 C  CG    . ARG AB ? 41   ? 207.331 274.860 116.281 1.0 72.98 45   J 1 
+ATOM   31 C  CD    . ARG AB ? 41   ? 205.858 274.842 115.972 1.0 73.76 45   J 1 
+ATOM   32 N  NE    . ARG AB ? 41   ? 205.075 274.587 117.171 1.0 74.89 45   J 1 
+ATOM   33 C  CZ    . ARG AB ? 41   ? 203.752 274.594 117.218 1.0 74.4  45   J 1 
+ATOM   34 N  NH1   . ARG AB ? 41   ? 203.024 274.851 116.145 1.0 73.39 45   J 1 
+ATOM   35 N  NH2   . ARG AB ? 41   ? 203.144 274.332 118.370 1.0 74.3  45   J 1 
+#
