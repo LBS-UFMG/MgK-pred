@@ -30,6 +30,7 @@ The workflow consists of:
 MgK-pred/
 │
 ├── structural-signatures/  # Training and test datasets
+├── binding-sites/          # CIF/PDB files for each ion (6 Å zone)
 ├── models/                 # Trained machine learning models (Orange files)
 ├── scripts/                # Python scripts used in preprocessing
 ├── comparison/             # Data used for comparisons
